@@ -125,6 +125,7 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 
 * [An Intro to Pen Plotters](http://www.tobiastoft.com/posts/an-intro-to-pen-plotters) – good info on getting started with old HPGL plotters
 * [1980s pen plotters of the future](https://notes.variogr.am/2012/08/12/1980s-pen-plotters-of-the-future/) – another intro to vintage pen plotters
+* [Pen Plotter Programming: The Basics](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929) – some basics of programming vector paths, including sorting, joining, and simplifying
 * [On Generative Algorithms](https://inconvergent.net/generative/) – nice 13-part walkthrough of interesting algorithms
 * [Roland DG DXY-990](https://hackaday.io/project/12276-roland-dg-dxy-990) – quickstart guide for a Roland flatbed plotter
 * [The Cohen-Sutherland Line Clipping Algorithm](https://sighack.com/post/cohen-sutherland-line-clipping-algorithm) – detailed explanation and examples of an interesting algorithm
