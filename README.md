@@ -90,6 +90,8 @@ Software that is specific to a particular plotter or controller.
 * [LaserGRBL](https://github.com/arkypita/LaserGRBL) – laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements
 * [Line-us Inkscape Plugin](https://github.com/Line-us/Inkscape-Plugin) – sends drawings to the [Line-us plotter](https://www.line-us.com/) directly from Inkscape
 * [Line-us API Examples](https://github.com/Line-us/Line-us-Programming) – example code for the [Line-us](https://www.line-us.com/) plotter's G-code-based API
+* [PenPlotter](https://github.com/RickMcConney/PenPlotter) - Polar graph controller that uses repetier firmware. Inspired by work at http://www.polargraph.co.uk
+* [Makelangelo-firmware](https://github.com/MarginallyClever/Makelangelo-firmware) - Code in the brain of the Makelangelo robot
 
 ### Vector Creation
 
@@ -103,6 +105,14 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 * [stipplegen](https://github.com/evil-mad/stipplegen) – creates intereting stippled drawings from bitmap images ([blog post](https://www.evilmadscientist.com/2012/stipplegen2/))
 * [SquiggleDraw](https://github.com/gwygonik/SquiggleDraw/commits/master) – "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves"
 * [svgurt](http://svgurt.com/) – web-based PNG to SVG creative noodler
+* [maptrace](https://github.com/mzucker/maptrace) - Produce watertight polygonal vector maps by tracing raster images
+* [venation](https://github.com/Shornone/venation) - Modelling and visualisation of leaf venation patterns
+* [penkit](https://github.com/paulgb/penkit) - Tools for pen plotting in Python
+* [Drawbot_image_to_gcode_v2](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - Creates gcode for use on drawbots
+* [blackstripes](https://github.com/fullscreennl/blackstripes-python-extensions) - turns an png image into a svg line drawing
+* [Ribbon](https://github.com/fogleman/ribbon) -  Ribbon diagrams of proteins in #golang.
+* [Canvas Sketch](https://github.com/mafm/canvas-sketch) -  Transform an image into a pencil-sketch - (maybe this doesn't belong here?)
+
 
 ### Vector Utilities
 
@@ -110,6 +120,7 @@ Tools to manipulate and optimize vector-based file formats.
 
 * [svgsort](https://github.com/inconvergent/svgsort) – path planning for plotting SVG files, reduces time spent moving with the pen up
 * [svgo](https://github.com/svg/svgo) – Node.js-based tool for optimizing SVG files
+* [Polargraph Optimizer](https://github.com/ezheidtmann/polargraph-optimizer) - Optimize drawing plan for a polargraph
 
 ### Fonts
 
