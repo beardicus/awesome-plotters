@@ -90,6 +90,8 @@ Software that is specific to a particular plotter or controller.
 * [LaserGRBL](https://github.com/arkypita/LaserGRBL) – laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements
 * [Line-us Inkscape Plugin](https://github.com/Line-us/Inkscape-Plugin) – sends drawings to the [Line-us plotter](https://www.line-us.com/) directly from Inkscape
 * [Line-us API Examples](https://github.com/Line-us/Line-us-Programming) – example code for the [Line-us](https://www.line-us.com/) plotter's G-code-based API
+* [PenPlotter](https://github.com/RickMcConney/PenPlotter) - Polar graph controller that uses repetier firmware. Inspired by work at http://www.polargraph.co.uk
+* [Makelangelo-firmware](https://github.com/MarginallyClever/Makelangelo-firmware) - Code in the brain of the Makelangelo robot
 
 ### Vector Creation
 
@@ -103,6 +105,11 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 * [stipplegen](https://github.com/evil-mad/stipplegen) – creates intereting stippled drawings from bitmap images ([blog post](https://www.evilmadscientist.com/2012/stipplegen2/))
 * [SquiggleDraw](https://github.com/gwygonik/SquiggleDraw/commits/master) – "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves"
 * [svgurt](http://svgurt.com/) – web-based PNG to SVG creative noodler
+* [maptrace](https://github.com/mzucker/maptrace) - produce watertight polygonal vector maps by tracing raster images
+* [venation](https://github.com/Shornone/venation) - modeling and visualisation of leaf venation patterns
+* [Drawbot_image_to_gcode_v2](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - creates G-code for use on drawbots
+* [blackstripes](https://github.com/fullscreennl/blackstripes-python-extensions) - turns a PNG image into a SVG line drawing
+* [Ribbon](https://github.com/fogleman/ribbon) - ribbon diagrams of proteins in #golang
 * [penplot](https://github.com/mattdesl/penplot) – a development environment for plotter art in JavaScript
 * [penkit](https://github.com/paulgb/penkit) – a Python library for creating line-based SVG graphics
 
@@ -112,7 +119,8 @@ Tools to manipulate and optimize vector-based file formats.
 
 * [svgsort](https://github.com/inconvergent/svgsort) – path planning for plotting SVG files, reduces time spent moving with the pen up
 * [svgo](https://github.com/svg/svgo) – Node.js-based tool for optimizing SVG files
-* [penkit-optimize](https://github.com/paulgb/penkit/tree/master/optimizer) – An SVG optimizer that uses a vehical routing solver to minimize plot time.
+* [Polargraph Optimizer](https://github.com/ezheidtmann/polargraph-optimizer) - optimize drawing plan for a polargraph
+* [penkit-optimize](https://github.com/paulgb/penkit/tree/master/optimizer) – an SVG optimizer that uses a vehicle routing solver to minimize plot time.
 
 ### Fonts
 
