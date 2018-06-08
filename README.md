@@ -145,6 +145,7 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 * [Hektor](http://juerglehni.com/works/hektor) – the original cable-based drawbot from 2002
 * [Pen Plotter Art & Algorithms Part I](https://mattdesl.svbtle.com/pen-plotter-1) and [II](https://mattdesl.svbtle.com/pen-plotter-1) – a two-part intro to creating generative graphics for plotting
 * [Surface Projection](https://bitaesthetics.com/posts/surface-projection.html) and [Fractal Generation with L-Systems](https://bitaesthetics.com/posts/fractal-generation-with-l-systems.html) – each introduce techniques for creating line graphics suitable for plotting
+* [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) – introduction to plotters, AxiDraw, walkthrough of the `penplot` library
 
 ## Community
 
