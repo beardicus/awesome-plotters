@@ -103,6 +103,8 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 * [stipplegen](https://github.com/evil-mad/stipplegen) – creates intereting stippled drawings from bitmap images ([blog post](https://www.evilmadscientist.com/2012/stipplegen2/))
 * [SquiggleDraw](https://github.com/gwygonik/SquiggleDraw/commits/master) – "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves"
 * [svgurt](http://svgurt.com/) – web-based PNG to SVG creative noodler
+* [penplot](https://github.com/mattdesl/penplot) – a development environment for plotter art in JavaScript
+* [penkit](https://github.com/paulgb/penkit) – a Python library for creating line-based SVG graphics
 
 ### Vector Utilities
 
@@ -110,6 +112,7 @@ Tools to manipulate and optimize vector-based file formats.
 
 * [svgsort](https://github.com/inconvergent/svgsort) – path planning for plotting SVG files, reduces time spent moving with the pen up
 * [svgo](https://github.com/svg/svgo) – Node.js-based tool for optimizing SVG files
+* [penkit-optimize](https://github.com/paulgb/penkit/tree/master/optimizer) – An SVG optimizer that uses a vehical routing solver to minimize plot time.
 
 ### Fonts
 
@@ -132,6 +135,8 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 * [Vera Molnár](https://www.surfacemag.com/articles/vera-molnar-in-thinking-machines-at-moma/) – OG plotter artist
 * [The Recode Project](http://recodeproject.com/) – "The ReCode Project is a community-driven effort to preserve computer art by translating it into a modern programming language"
 * [Hektor](http://juerglehni.com/works/hektor) – the original cable-based drawbot from 2002
+* [Pen Plotter Art & Algorithms Part I](https://mattdesl.svbtle.com/pen-plotter-1) and [II](https://mattdesl.svbtle.com/pen-plotter-1) – a two-part intro to creating generative graphics for plotting
+* [Surface Projection](https://bitaesthetics.com/posts/surface-projection.html) and [Fractal Generation with L-Systems](https://bitaesthetics.com/posts/fractal-generation-with-l-systems.html) – each introduce techniques for creating line graphics suitable for plotting
 
 ## Community
 
