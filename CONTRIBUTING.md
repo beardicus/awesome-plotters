@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Thank you for your interest in contributing! I am quite open to pull requests and other forms of help.
+Thank you for your interest in contributing! I am quite open to pull requests and other forms of help. If you are not comfortable with Git and pull requests please feel free to open an issue and suggest links that way, or just tweet me at [@bertmb](https://twitter.com/bertmb).
 
 I'm still feeling out the guidelines for what is "worthy" of inclusion here. If you're unsure, feel free to open an issue to discuss before putting in the effort of writing things up for a pull request.
 
