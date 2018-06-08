@@ -70,6 +70,7 @@ HPGL is a serial/text-based protocol used by most old pen plotters, and even man
 * [HP 7475A Interfacing and Programming Manual](https://archive.org/details/HP7475AInterfacingandProgrammingManual) – scanned PDF manual that contains a full HPGL reference
 * [djipco/hpgl](https://github.com/djipco/hpgl) – A Node.js library to communicate with HPGL-compatible plotters and printers
 * [hp2xx](https://www.gnu.org/software/hp2xx/) – GNU tool to convert HPGL into other vector and raster formats. Can also be used as a previewing in X11
+* [vec](https://github.com/anachrocomputer/vec) – example C code for generating HPGL, with a turtle graphics interface
 
 ### G-code
 
