@@ -92,6 +92,8 @@ Software that is specific to a particular plotter or controller.
 * [Line-us API Examples](https://github.com/Line-us/Line-us-Programming) – example code for the [Line-us](https://www.line-us.com/) plotter's G-code-based API
 * [PenPlotter](https://github.com/RickMcConney/PenPlotter) – polargraph controller that uses repetier firmware
 * [Makelangelo-firmware](https://github.com/MarginallyClever/Makelangelo-firmware) – firmware for the Makelangelo polargraph robot
+* [RoboPaint](https://github.com/evil-mad/robopaint) – software for the WaterColorBot
+* [AxiTurtle](https://github.com/ralphcrutzen/AxiTurtle) – turtle graphics for AxiDraw in Processing
 
 ### Vector Creation
 
@@ -112,6 +114,10 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 * [Ribbon](https://github.com/fogleman/ribbon) – ribbon diagrams of proteins in #golang
 * [penplot](https://github.com/mattdesl/penplot) – a development environment for plotter art in JavaScript
 * [penkit](https://github.com/paulgb/penkit) – a Python library for creating line-based SVG graphics
+* [generativeExamples](https://github.com/digitalcoleman/generativeExamples) – example Processing code that generates plottable PDFs
+* [Let's make map](http://svg-exporter.netlify.com) – web-based tool to export an SVG map from Mapzen tiles
+* [SuperformulaSVG for web](https://jasonwebb.github.io/SuperformulaSVG-for-web/) – a generative line art web app
+* [scribbleplot](https://github.com/bleeptrack/scribbleplot) – scribbly image transformations in Processing
 
 ### Vector Utilities
 
@@ -126,6 +132,7 @@ Tools to manipulate and optimize vector-based file formats.
 
 Single-line vector fonts or "engraving fonts".
 
+* [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) – good information and links to other resources and fonts
 * [Hershey Vector Font](http://paulbourke.net/dataformats/hershey/) – `.fnt` format of vector fonts from the 60s. Includes a good overview of the original data format of the fonts
 * [hershey-fonts](https://github.com/kamalmostafa/hershey-fonts) – C library and original font data for the Hershey fonts
 * [OneLineFonts.com](http://www.onelinefonts.com/) – commercial site with some single-line fonts available for purchase
@@ -146,6 +153,9 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 * [Pen Plotter Art & Algorithms Part I](https://mattdesl.svbtle.com/pen-plotter-1) and [II](https://mattdesl.svbtle.com/pen-plotter-1) – a two-part intro to creating generative graphics for plotting
 * [Surface Projection](https://bitaesthetics.com/posts/surface-projection.html) and [Fractal Generation with L-Systems](https://bitaesthetics.com/posts/fractal-generation-with-l-systems.html) – each introduce techniques for creating line graphics suitable for plotting
 * [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) – introduction to plotters, AxiDraw, walkthrough of the `penplot` library
+* [Surface Projection](https://bitaesthetics.com/posts/surface-projection.html) – deep dive into surface projection and hidden line removal using Python and penplot
+* [Introduction to TSP art](https://wiki.evilmadscientist.com/TSP_art) – resources for traveling salesman problem (single path) art
+* [Hidden wireframe removal](https://trmm.net/Hidden_Wireframe) – discussion and links to code for wireframe removal of STL files
 
 ## Community
 
@@ -156,6 +166,15 @@ Where to find other plotter and drawbot friends.
 * [AxiDraw Subreddit](https://www.reddit.com/r/axidraw/)
 * [Generative Art Subreddit](https://www.reddit.com/r/generative/)
 * [Chiplotle-discuss](https://lists.columbia.edu/mailman/listinfo/chiplotle-discuss) – fairly inactive mailing list for the Chiplotle HPGL Python library with some general plotter talk
+
+## Plotter Art For Sale
+
+* [Paul Rickards](http://biosrhythm.com/?page_id=1569)
+* [Michael Fogleman ](https://www.michaelfogleman.com/plotter/)
+* [inconvergent](http://buy.inconvergent.net/)
+* [Customized Streetart](https://www.literalstreetart.com/) – customizable plotted maps
+* [Monica Rizzolli](https://www.saatchiart.com/account/artworks/155196)
+* [EmergentDesign](https://emergentdesign.bigcartel.com/products)
 
 ## Other Awesomes
 
