@@ -105,14 +105,13 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 * [stipplegen](https://github.com/evil-mad/stipplegen) – creates intereting stippled drawings from bitmap images ([blog post](https://www.evilmadscientist.com/2012/stipplegen2/))
 * [SquiggleDraw](https://github.com/gwygonik/SquiggleDraw/commits/master) – "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves"
 * [svgurt](http://svgurt.com/) – web-based PNG to SVG creative noodler
-* [maptrace](https://github.com/mzucker/maptrace) - Produce watertight polygonal vector maps by tracing raster images
-* [venation](https://github.com/Shornone/venation) - Modelling and visualisation of leaf venation patterns
-* [penkit](https://github.com/paulgb/penkit) - Tools for pen plotting in Python
-* [Drawbot_image_to_gcode_v2](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - Creates gcode for use on drawbots
-* [blackstripes](https://github.com/fullscreennl/blackstripes-python-extensions) - turns an png image into a svg line drawing
-* [Ribbon](https://github.com/fogleman/ribbon) -  Ribbon diagrams of proteins in #golang.
-* [Canvas Sketch](https://github.com/mafm/canvas-sketch) -  Transform an image into a pencil-sketch - (maybe this doesn't belong here?)
-
+* [maptrace](https://github.com/mzucker/maptrace) - produce watertight polygonal vector maps by tracing raster images
+* [venation](https://github.com/Shornone/venation) - modeling and visualisation of leaf venation patterns
+* [Drawbot_image_to_gcode_v2](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - creates G-code for use on drawbots
+* [blackstripes](https://github.com/fullscreennl/blackstripes-python-extensions) - turns a PNG image into a SVG line drawing
+* [Ribbon](https://github.com/fogleman/ribbon) - ribbon diagrams of proteins in #golang
+* [penplot](https://github.com/mattdesl/penplot) – a development environment for plotter art in JavaScript
+* [penkit](https://github.com/paulgb/penkit) – a Python library for creating line-based SVG graphics
 
 ### Vector Utilities
 
@@ -120,7 +119,8 @@ Tools to manipulate and optimize vector-based file formats.
 
 * [svgsort](https://github.com/inconvergent/svgsort) – path planning for plotting SVG files, reduces time spent moving with the pen up
 * [svgo](https://github.com/svg/svgo) – Node.js-based tool for optimizing SVG files
-* [Polargraph Optimizer](https://github.com/ezheidtmann/polargraph-optimizer) - Optimize drawing plan for a polargraph
+* [Polargraph Optimizer](https://github.com/ezheidtmann/polargraph-optimizer) - optimize drawing plan for a polargraph
+* [penkit-optimize](https://github.com/paulgb/penkit/tree/master/optimizer) – an SVG optimizer that uses a vehicle routing solver to minimize plot time.
 
 ### Fonts
 
@@ -136,12 +136,15 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 
 * [An Intro to Pen Plotters](http://www.tobiastoft.com/posts/an-intro-to-pen-plotters) – good info on getting started with old HPGL plotters
 * [1980s pen plotters of the future](https://notes.variogr.am/2012/08/12/1980s-pen-plotters-of-the-future/) – another intro to vintage pen plotters
+* [Pen Plotter Programming: The Basics](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929) – some basics of programming vector paths, including sorting, joining, and simplifying
 * [On Generative Algorithms](https://inconvergent.net/generative/) – nice 13-part walkthrough of interesting algorithms
 * [Roland DG DXY-990](https://hackaday.io/project/12276-roland-dg-dxy-990) – quickstart guide for a Roland flatbed plotter
 * [The Cohen-Sutherland Line Clipping Algorithm](https://sighack.com/post/cohen-sutherland-line-clipping-algorithm) – detailed explanation and examples of an interesting algorithm
 * [Vera Molnár](https://www.surfacemag.com/articles/vera-molnar-in-thinking-machines-at-moma/) – OG plotter artist
 * [The Recode Project](http://recodeproject.com/) – "The ReCode Project is a community-driven effort to preserve computer art by translating it into a modern programming language"
 * [Hektor](http://juerglehni.com/works/hektor) – the original cable-based drawbot from 2002
+* [Pen Plotter Art & Algorithms Part I](https://mattdesl.svbtle.com/pen-plotter-1) and [II](https://mattdesl.svbtle.com/pen-plotter-1) – a two-part intro to creating generative graphics for plotting
+* [Surface Projection](https://bitaesthetics.com/posts/surface-projection.html) and [Fractal Generation with L-Systems](https://bitaesthetics.com/posts/fractal-generation-with-l-systems.html) – each introduce techniques for creating line graphics suitable for plotting
 
 ## Community
 
