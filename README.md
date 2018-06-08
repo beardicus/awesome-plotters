@@ -56,7 +56,8 @@ Contributions are very welcome. Please see [CONTRIBUTING](CONTRIBUTING.md) and [
 * [Sharpie Fine Point Plotter Adapter](https://www.thingiverse.com/thing:229982) – 3d-printed adapter to fit a standard Sharpie in an HP-GL plotter
 * [Parametric 3d-Printable Plotter Pen Adapter](https://openjscad.org/#https://gist.githubusercontent.com/beardicus/d668c0f6b96be53d16dc/raw/plotter-pen-adapter.jscad) – adjustable model to print adapters for various pens
 * [Plotter Pen STL Models](https://www.thingiverse.com/thing:227985) – accurate STL models of both short and long standard plotter pens
-* TODO: pen recommendations
+* [Pens for AxiDraw](https://wiki.evilmadscientist.com/Pens_for_AxiDraw) – list of pens suitable for general plotter abuse
+* [Pens for EggBot](https://wiki.evilmadscientist.com/Pen_choices) – egg- and glass-focused pen recommendations but still generally applicable information
 
 ## Software
 
