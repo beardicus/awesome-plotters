@@ -22,6 +22,7 @@ Contributions are very welcome. Please see [CONTRIBUTING](CONTRIBUTING.md) and [
   * [Fonts](#fonts)
 * [Inspiration and Instruction](#inspiration-and-instruction)
 * [Community](#community)
+* [Plotter Art For Sale](#plotter-art-for-sale)
 * [Other Awesomes](#other-awesomes)
 
 ## Hardware
