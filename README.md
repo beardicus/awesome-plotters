@@ -37,6 +37,7 @@ Contributions are very welcome. Please see [CONTRIBUTING](CONTRIBUTING.md) and [
 * [EggBot](https://egg-bot.com/) – pen plotter for egg-shaped and spherical objects
 * [HP Pen Plotters](http://www.hpmuseum.net/exhibit.php?class=4&cat=24) – vintage desktop and floor-standing pen plotters from the creator of the HPGL standard. Model 7475A is very common and can usually be found on eBay
 * [Roland Pen Plotters](https://www.youtube.com/watch?v=6_pwzqPk6Gg) (YouTube) – vintage flatbed HPGL pen plotters. Search eBay for "roland dxy"
+* [Polargraph](http://www.polargraph.co.uk/) – the original polargraph hardware and software project
 * [Makelangelo](http://www.makelangelo.com/) – open source polargraph artbot
 
 ### Motor Controllers
