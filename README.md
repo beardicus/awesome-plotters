@@ -68,6 +68,7 @@ HPGL is a serial/text-based protocol used by most old pen plotters, and even man
 * [djipco/hpgl](https://github.com/djipco/hpgl) – A Node.js library to communicate with HPGL-compatible plotters and printers.
 * [hp2xx](https://www.gnu.org/software/hp2xx/) – GNU tool to convert HPGL into other vector and raster formats. Can also be used as a previewing in X11.
 * [vec](https://github.com/anachrocomputer/vec) – Example C code for generating HPGL, with a turtle graphics interface.
+* [d3-hpgl](https://github.com/aubergene/d3-hpgl) - An adapter for the HTML Canvas API so you can output HPGL using the popular [D3](https://d3js.org/) library.
 
 ### G-code
 
