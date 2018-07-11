@@ -69,6 +69,7 @@ HPGL is a serial/text-based protocol used by most old pen plotters, and even man
 * [hp2xx](https://www.gnu.org/software/hp2xx/) – GNU tool to convert HPGL into other vector and raster formats. Can also be used as a previewing in X11.
 * [vec](https://github.com/anachrocomputer/vec) – Example C code for generating HPGL, with a turtle graphics interface.
 * [d3-hpgl](https://github.com/aubergene/d3-hpgl) - An adapter for the HTML Canvas API so you can output HPGL using the popular [D3](https://d3js.org/) library.
+
 ### G-code
 
 G-code is a text-based standard for controlling CNC machines. Though it was designed for industrial machines, its use in many hobbyist 3d printer firmwares has made it ubiquitous in small-scale DIY projects as well.
