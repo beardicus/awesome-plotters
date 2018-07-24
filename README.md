@@ -31,7 +31,7 @@ A curated list of code and resources for pen plotters and other robots that draw
 * [Drawing Robot](https://www.thingiverse.com/thing:2349232) – 3d-Printable AxiDraw clone w/ [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield/) controller running grbl firmware.
 * [WaterColorBot](https://watercolorbot.com/) – XY art robot and software to plot with watercolor paints.
 * [EggBot](https://egg-bot.com/) – Pen plotter for egg-shaped and spherical objects.
-* [HP Pen Plotters](http://www.hpmuseum.net/exhibit.php?class=4&cat=24) – Vintage desktop and floor-standing pen plotters from the creator of the HPGL standard. Model 7475A is very common and can usually be found on eBay.
+* [HP Pen Plotters](https://www.hpmuseum.net/exhibit.php?class=4&cat=24) – Vintage desktop and floor-standing pen plotters from the creator of the HPGL standard. Model 7475A is very common and can usually be found on eBay.
 * [Roland Pen Plotters](https://www.youtube.com/watch?v=6_pwzqPk6Gg) (YouTube) – Vintage flatbed HPGL pen plotters. Search eBay for "roland dxy".
 * [Polargraph](http://www.polargraph.co.uk/) – The original polargraph hardware and software project.
 * [Makelangelo](http://www.makelangelo.com/) – Open source polargraph artbot.
@@ -63,7 +63,7 @@ A curated list of code and resources for pen plotters and other robots that draw
 HPGL is a serial/text-based protocol used by most old pen plotters, and even many new vinyl cutters.
 
 * [Chiplotle](https://github.com/drepetto/chiplotle) ([web site](http://chiplotle.org/)) – Python library for generating HPGL and interfacing with serial plotters.
-* [HPGL Reference Guide](http://www.isoplotec.co.jp/HPGL/eHPGL.htm) – HTML-based HPGL Reference.
+* [HPGL Reference Guide](https://www.isoplotec.co.jp/HPGL/eHPGL.htm) – HTML-based HPGL Reference.
 * [HP 7475A Interfacing and Programming Manual](https://archive.org/details/HP7475AInterfacingandProgrammingManual) – Scanned PDF manual that contains a full HPGL reference.
 * [djipco/hpgl](https://github.com/djipco/hpgl) – A Node.js library to communicate with HPGL-compatible plotters and printers.
 * [hp2xx](https://www.gnu.org/software/hp2xx/) – GNU tool to convert HPGL into other vector and raster formats. Can also be used as a previewing in X11.
@@ -117,7 +117,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 * [penplot](https://github.com/mattdesl/penplot) – A development environment for plotter art in JavaScript.
 * [penkit](https://github.com/paulgb/penkit) – A Python library for creating line-based SVG graphics.
 * [generativeExamples](https://github.com/digitalcoleman/generativeExamples) – Example Processing code that generates plottable PDFs.
-* [Let's make map](http://svg-exporter.netlify.com) – Web-based tool to export an SVG map from Mapzen tiles.
+* [Let's make map](https://svg-exporter.netlify.com) – Web-based tool to export an SVG map from Mapzen tiles.
 * [SuperformulaSVG for web](https://jasonwebb.github.io/SuperformulaSVG-for-web/) – A generative line art web app.
 * [scribbleplot](https://github.com/bleeptrack/scribbleplot) – Scribbly image transformations in Processing.
 
@@ -138,13 +138,13 @@ Single-line vector fonts or "engraving fonts".
 * [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) – Good information and links to other resources and fonts.
 * [Hershey Vector Font](http://paulbourke.net/dataformats/hershey/) – `.fnt` format of vector fonts from the 60s. Includes a good overview of the original data format of the fonts.
 * [hershey-fonts](https://github.com/kamalmostafa/hershey-fonts) – C library and original font data for the Hershey fonts.
-* [OneLineFonts.com](http://www.onelinefonts.com/) – Commercial site with some single-line fonts available for purchase.
+* [OneLineFonts.com](https://www.onelinefonts.com/) – Commercial site with some single-line fonts available for purchase.
 
 ## Inspiration and Instruction
 
 Blog posts, articles, tutorials, galleries, videos, et cetera.
 
-* [An Intro to Pen Plotters](http://www.tobiastoft.com/posts/an-intro-to-pen-plotters) – Good info on getting started with old HPGL plotters.
+* [An Intro to Pen Plotters](https://www.tobiastoft.com/posts/an-intro-to-pen-plotters) – Good info on getting started with old HPGL plotters.
 * [1980s pen plotters of the future](https://notes.variogr.am/2012/08/12/1980s-pen-plotters-of-the-future/) – Another intro to vintage pen plotters.
 * [Pen Plotter Programming: The Basics](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929) – Some basics of programming vector paths, including sorting, joining, and simplifying.
 * [On Generative Algorithms](https://inconvergent.net/generative/) – Nice 13-part walkthrough of interesting algorithms.
