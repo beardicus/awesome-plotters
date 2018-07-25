@@ -108,7 +108,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 * [autotrace](https://github.com/autotrace/autotrace) – Converts bitmap images to vector graphics.
 * [stipplegen](https://github.com/evil-mad/stipplegen) – Creates interesting stippled drawings from bitmap images. ([blog post](https://www.evilmadscientist.com/2012/stipplegen2/))
 * [SquiggleDraw](https://github.com/gwygonik/SquiggleDraw/commits/master) – "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves".
-* [svgurt](http://svgurt.com/) – Web-based PNG to SVG creative noodler.
+* [svgurt](https://svgurt.com/) – Web-based PNG to SVG creative noodler.
 * [maptrace](https://github.com/mzucker/maptrace) – Produce watertight polygonal vector maps by tracing raster images.
 * [venation](https://github.com/Shornone/venation) – Modeling and visualization of leaf venation patterns.
 * [Drawbot_image_to_gcode_v2](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) – Creates G-code for use on drawbots.
