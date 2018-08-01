@@ -112,7 +112,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 - [maptrace](https://github.com/mzucker/maptrace) – Produce watertight polygonal vector maps by tracing raster images.
 - [venation](https://github.com/Shornone/venation) – Modeling and visualization of leaf venation patterns.
 - [Drawbot_image_to_gcode_v2](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) – Creates G-code for use on drawbots.
-- [blackstripes](https://github.com/fullscreennl/blackstripes-python-extensions) - Turns a PNG image into a SVG line drawing.
+- [blackstripes](https://github.com/fullscreennl/blackstripes-python-extensions) – Turns a PNG image into a SVG line drawing.
 - [Ribbon](https://github.com/fogleman/ribbon) – Ribbon diagrams of proteins in written in Go.
 - [penplot](https://github.com/mattdesl/penplot) – A development environment for plotter art in JavaScript.
 - [penkit](https://github.com/paulgb/penkit) – A Python library for creating line-based SVG graphics.
@@ -127,7 +127,7 @@ Tools to manipulate and optimize vector-based file formats.
 
 - [svgsort](https://github.com/inconvergent/svgsort) – Path planning for plotting SVG files, reduces time spent moving with the pen up.
 - [svgo](https://github.com/svg/svgo) – Node.js-based tool for optimizing SVG files.
-- [Polargraph Optimizer](https://github.com/ezheidtmann/polargraph-optimizer) - Optimize drawing plan for a polargraph.
+- [Polargraph Optimizer](https://github.com/ezheidtmann/polargraph-optimizer) – Optimize drawing plan for a polargraph.
 - [penkit-optimize](https://github.com/paulgb/penkit/tree/master/optimizer) – An SVG optimizer that uses a vehicle routing solver to minimize plot time.
 - [svg-crowbar](https://github.com/NYTimes/svg-crowbar) – Chrome-only bookmarklet for extracting SVG from an HTML document.
 
