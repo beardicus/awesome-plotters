@@ -27,7 +27,7 @@ A curated list of code and resources for pen plotters and other robots that draw
 
 - [AxiDraw](https://shop.evilmadscientist.com/productsmenu/846) – Pen plotter from [Evil Mad Scientist](https://www.evilmadscientist.com), very popular on [#plottertwitter](https://twitter.com/hashtag/plottertwitter).
 - [Line-us](https://www.line-us.com) – A cute little kickstarted robotic drawing arm.
-- [Makeblock XY Plotter](https://makeblockshop.eu/products/makeblock-xy-plotter) – Hackable XY plotter kit (possibly discontinued).
+- [Makeblock XY Plotter](http://learn.makeblock.com/en/xy-plotter-robot-kit) – Hackable XY plotter kit (discontinued?).
 - [Drawing Robot](https://www.thingiverse.com/thing:2349232) – 3d-Printable AxiDraw clone w/ [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) controller running grbl firmware.
 - [WaterColorBot](https://watercolorbot.com) – XY art robot and software to plot with watercolor paints.
 - [EggBot](https://egg-bot.com) – Pen plotter for egg-shaped and spherical objects.
