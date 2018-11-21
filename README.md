@@ -99,6 +99,7 @@ Software that is specific to a particular plotter or controller.
 - [RoboPaint](https://github.com/evil-mad/robopaint) – Software for the WaterColorBot.
 - [AxiTurtle](https://github.com/ralphcrutzen/AxiTurtle) – Turtle graphics for AxiDraw in Processing.
 - [GRBL-Plotter](https://github.com/svenhb/GRBL-Plotter) – Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
+- [saxi](https://github.com/nornagon/saxi) — Driver & library for the AxiDraw. Uses constant-acceleration motion planning & automatically resizes to paper.
 
 ### Vector Creation
 
