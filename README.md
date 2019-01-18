@@ -81,6 +81,7 @@ G-code is a text-based standard for controlling CNC machines. Though it was desi
 - [node-gcode](https://github.com/ryansturmer/node-gcode) – Node.js-based G-code interpreter and simulator.
 - [svg2gcode](https://github.com/em/svg2gcode) – Node.js-based command line utility for converting SVG to G-code.
 - [svg2gcode](https://github.com/vishpat/svg2gcode) – Python-based utility for fast SVG to G-code conversion.
+- [jscut](http://jscut.org/) - A web-based utiltity for converting SVG to G-code.
 - [Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) – Java-based grbl-compatible cross-platform G-code sender.
 - [ChiliPeppr Hardware Fiddle](http://chilipeppr.com) – Modular web-based workspaces to visualize G-code and control hardware.
 
