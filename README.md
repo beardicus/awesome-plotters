@@ -125,6 +125,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 - [SuperformulaSVG for web](https://jasonwebb.github.io/SuperformulaSVG-for-web) – A generative line art web app.
 - [scribbleplot](https://github.com/bleeptrack/scribbleplot) – Scribbly image transformations in Processing.
 - [Maker.js](https://maker.js.org) – Library for creating 2D vector drawings for CNC and laser cutter machines.
+- [Turtletoy](https://turtletoy.net) – Browser-based JavaScript turtle graphics API with SVG export.
 
 ### Vector Utilities
 
