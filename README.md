@@ -95,6 +95,7 @@ Software that is specific to a particular plotter or controller.
 - [LaserGRBL](https://github.com/arkypita/LaserGRBL) – Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
 - [Line-us Inkscape Plugin](https://github.com/Line-us/Inkscape-Plugin) – Sends drawings to the [Line-us plotter](https://www.line-us.com) directly from Inkscape.
 - [Line-us API Examples](https://github.com/Line-us/Line-us-Programming) – Example code for the [Line-us](https://www.line-us.com) plotter's G-code-based API.
+- [@beardicus/line-us](https://github.com/beardicus/line-us) – JavaScript library for controlling the [Line-us](https://www.line-us.com) machine from Node or the browser.
 - [PenPlotter](https://github.com/RickMcConney/PenPlotter) – Polargraph controller that uses repetier firmware.
 - [Makelangelo-firmware](https://github.com/MarginallyClever/Makelangelo-firmware) – Firmware for the Makelangelo polargraph robot.
 - [RoboPaint](https://github.com/evil-mad/robopaint) – Software for the WaterColorBot.
