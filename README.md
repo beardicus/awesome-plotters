@@ -186,6 +186,7 @@ Where to find other plotter and drawbot friends.
 - [Monica Rizzolli](https://www.saatchiart.com/account/artworks/155196)
 - [EmergentDesign](https://emergentdesign.bigcartel.com/products)
 - [BustBright](https://mkt.com/bustbright)
+- [Martin O'Leary](https://shop.mewo2.com)
 
 ## Other Awesomes
 
