@@ -20,7 +20,6 @@ A curated list of code and resources for pen plotters and other robots that draw
 - [Community](#community)
 - [Plotter Art For Sale](#plotter-art-for-sale)
 - [Other Awesomes](#other-awesomes)
-- [License](#license)
 
 ## Hardware
 
