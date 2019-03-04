@@ -1,6 +1,6 @@
 # Awesome Plotters [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of code and resources for pen plotters and other robots that draw.
+A curated list of code and resources for computer-controlled drawing machines and other visual art robots.
 
 ## Contents
 
