@@ -29,6 +29,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 - [Line-us](https://www.line-us.com) - A cute little kickstarted robotic drawing arm.
 - [Makeblock XY Plotter](http://learn.makeblock.com/en/xy-plotter-robot-kit) - Hackable XY plotter kit (discontinued?).
 - [Drawing Robot](https://www.thingiverse.com/thing:2349232) - 3d-Printable AxiDraw clone w/ [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) controller running grbl firmware.
+- [4xiDraw](https://www.instructables.com/id/4xiDraw/) Yet another 3d-Printable AxiDraw clone w/ [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) controller running grbl firmware.
 - [WaterColorBot](https://watercolorbot.com) - XY art robot and software to plot with watercolor paints.
 - [EggBot](https://egg-bot.com) - Pen plotter for egg-shaped and spherical objects.
 - [HP Pen Plotters](https://www.hpmuseum.net/exhibit.php?class=4&cat=24) - Vintage desktop and floor-standing pen plotters from the creator of the HPGL standard. Model 7475A is very common and can usually be found on eBay.
