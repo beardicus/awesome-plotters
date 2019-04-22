@@ -180,6 +180,7 @@ Where to find other plotter and drawbot friends.
 - [AxiDraw Subreddit](https://www.reddit.com/r/axidraw)
 - [Generative Art Subreddit](https://www.reddit.com/r/generative)
 - [Chiplotle-discuss](https://lists.columbia.edu/mailman/listinfo/chiplotle-discuss) - Fairly inactive mailing list for the Chiplotle HPGL Python library with some general plotter talk.
+- [Pen Plotters Slack Community](http://penplotters.tk) - A new slack community starting
 
 ## Plotter Art For Sale
 
