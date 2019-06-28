@@ -72,6 +72,7 @@ HPGL is a serial/text-based protocol used by most old pen plotters, and even man
 - [d3-hpgl](https://github.com/aubergene/d3-hpgl) - An adapter for the HTML Canvas API so you can output HPGL using the popular [D3](https://d3js.org) library.
 - [HPGL Viewer](https://github.com/drskullster/HPGLViewer) - An HPGL Viewer using JavaScript and HTML5 canvas.
 - [HPGL Sender](https://github.com/LgHS/hpgl-sender) - A web interface for previewing HPGL and sending it to your plotter.
+- [HPGLGraphics](https://github.com/ciaron/HPGLGraphics) - A Processing library for writing HPGL files.
 
 ### G-code
 
