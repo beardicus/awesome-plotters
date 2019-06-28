@@ -181,6 +181,7 @@ Where to find other plotter and drawbot friends.
 - [AxiDraw Subreddit](https://www.reddit.com/r/axidraw)
 - [Generative Art Subreddit](https://www.reddit.com/r/generative)
 - [Chiplotle-discuss](https://lists.columbia.edu/mailman/listinfo/chiplotle-discuss) - Fairly inactive mailing list for the Chiplotle HPGL Python library with some general plotter talk.
+- [Plotter People](https://plotterpeople.github.io/) - In-person meetups (SF and NYC so far) with talks and plotter art galleries.
 
 ## Plotter Art For Sale
 
