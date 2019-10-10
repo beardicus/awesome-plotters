@@ -193,6 +193,7 @@ Where to find other plotter and drawbot friends.
 - [EmergentDesign](https://emergentdesign.bigcartel.com/products)
 - [BustBright](https://mkt.com/bustbright)
 - [Martin O'Leary](https://shop.mewo2.com)
+- [Geoffrey Bradway](https://www.normedvector.space)
 
 ## Other Awesomes
 
