@@ -162,7 +162,6 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 - [Roland DG DXY-990](https://hackaday.io/project/12276-roland-dg-dxy-990) - Quickstart guide for a Roland flatbed plotter.
 - [The Cohen-Sutherland Line Clipping Algorithm](https://sighack.com/post/cohen-sutherland-line-clipping-algorithm) - Detailed explanation and examples of an interesting algorithm.
 - [Vera Molnár](https://www.surfacemag.com/articles/vera-molnar-in-thinking-machines-at-moma) - OG plotter artist.
-- [The Recode Project](http://recodeproject.com) - "The ReCode Project is a community-driven effort to preserve computer art by translating it into a modern programming language".
 - [Hektor](http://juerglehni.com/works/hektor) - The original cable-based drawbot from 2002.
 - [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) - A two-part intro to creating generative graphics for plotting.
 - [Surface Projection](https://bitaesthetics.com/posts/surface-projection.html) - Some projection techniques for creating line graphics suitable for plotting.
