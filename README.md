@@ -193,6 +193,7 @@ Where to find other plotter and drawbot friends.
 - [BustBright](https://mkt.com/bustbright)
 - [Martin O'Leary](https://shop.mewo2.com)
 - [Geoffrey Bradway](https://www.normedvector.space)
+- [Yuin Chien](http://store.yuinchien.com/)
 
 ## Other Awesomes
 
