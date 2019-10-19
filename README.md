@@ -35,6 +35,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 - [Roland Pen Plotters](https://www.youtube.com/watch?v=6_pwzqPk6Gg) - Vintage flatbed HPGL pen plotters. Search eBay for "roland dxy".
 - [Polargraph](http://www.polargraph.co.uk) - The original polargraph hardware and software project.
 - [Makelangelo](http://www.makelangelo.com) - Open source polargraph artbot.
+- [BrachioGraph](https://brachiograph.readthedocs.io/en/latest/) - A cheap and simple plotter made from sticks, servos, and a Raspberry Pi running Python.
 
 ### Motor Controllers
 
