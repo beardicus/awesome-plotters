@@ -195,6 +195,7 @@ Where to find other plotter and drawbot friends.
 - [Martin O'Leary](https://shop.mewo2.com)
 - [Geoffrey Bradway](https://www.normedvector.space)
 - [Yuin Chien](http://store.yuinchien.com/)
+- [Andrew Heumann](https://shop.andrewheumann.com/)
 
 ## Other Awesomes
 
