@@ -158,7 +158,7 @@ Single-line vector fonts or "engraving fonts".
 
 Blog posts, articles, tutorials, galleries, videos, et cetera.
 
-- [An Intro to Pen Plotters](https://www.tobiastoft.com/posts/an-intro-to-pen-plotters) - Good info on getting started with old HPGL plotters.
+- [An Intro to Pen Plotters](https://medium.com/quarterstudio/an-intro-to-pen-plotters-29b6bd4327ba) - Good info on getting started with old HPGL plotters.
 - [1980s pen plotters of the future](https://notes.variogr.am/2012/08/12/1980s-pen-plotters-of-the-future) - Another intro to vintage pen plotters.
 - [Pen Plotter Programming: The Basics](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929) - Some basics of programming vector paths, including sorting, joining, and simplifying.
 - [On Generative Algorithms](https://inconvergent.net/generative) - Nice 13-part walkthrough of interesting algorithms.
