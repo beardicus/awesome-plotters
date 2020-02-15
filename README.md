@@ -133,6 +133,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 - [scribbleplot](https://github.com/bleeptrack/scribbleplot) - Scribbly image transformations in Processing.
 - [Maker.js](https://maker.js.org) - Library for creating 2D vector drawings for CNC and laser cutter machines.
 - [Turtletoy](https://turtletoy.net) - Browser-based JavaScript turtle graphics API with SVG export.
+- [cozyvec](https://github.com/brubsby/cozyvec) - Web/Standalone terminal environment for plotter art and tweet plots.
 
 ### Vector Utilities
 
@@ -196,6 +197,7 @@ Where to find other plotter and drawbot friends.
 - [Geoffrey Bradway](https://www.chromatocosmos.com/)
 - [Yuin Chien](http://store.yuinchien.com/)
 - [Andrew Heumann](https://shop.andrewheumann.com/)
+- [brubsby](http://shop.brubsby.com/)
 
 ## Other Awesomes
 
