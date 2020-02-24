@@ -198,6 +198,7 @@ Where to find other plotter and drawbot friends.
 - [Yuin Chien](http://store.yuinchien.com/)
 - [Andrew Heumann](https://shop.andrewheumann.com/)
 - [brubsby](http://shop.brubsby.com/)
+- [Arjan van der Meij](https://dutchplottr.nl/en/)
 
 ## Other Awesomes
 
