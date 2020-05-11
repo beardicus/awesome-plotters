@@ -200,6 +200,7 @@ Where to find other plotter and drawbot friends.
 - [Andrew Heumann](https://shop.andrewheumann.com/)
 - [brubsby](http://shop.brubsby.com/)
 - [Arjan van der Meij](https://dutchplottr.nl/en/)
+- [Nadieh Bremer](https://shop.visualcinnamon.com/collections/pen-plotter-prints)
 
 ## Other Awesomes
 
