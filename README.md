@@ -201,6 +201,7 @@ Where to find other plotter and drawbot friends.
 - [brubsby](http://shop.brubsby.com/)
 - [Arjan van der Meij](https://dutchplottr.nl/en/)
 - [Nadieh Bremer](https://shop.visualcinnamon.com/collections/pen-plotter-prints)
+- [Michelle Chandra](https://www.dirtalleydesign.com/)
 
 ## Other Awesomes
 
