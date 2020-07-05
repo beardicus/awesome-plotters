@@ -205,6 +205,8 @@ Where to find other plotter and drawbot friends.
 - [Nadieh Bremer](https://shop.visualcinnamon.com/collections/pen-plotter-prints)
 - [Michelle Chandra](https://www.dirtalleydesign.com/)
 - [Jessica In](https://www.jessicain.net/shop-originals)
+- [WBlut](https://wblut.com/product-category/mechanical-pen-plot-mini/)
+
 
 ## Other Awesomes
 
