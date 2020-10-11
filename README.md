@@ -207,6 +207,7 @@ Where to find other plotter and drawbot friends.
 - [Michelle Chandra](https://www.dirtalleydesign.com/)
 - [Jessica In](https://www.jessicain.net/shop-originals)
 - [WBlut](https://wblut.com/product-category/mechanical-pen-plot-mini/)
+- [Pedro Alcocer](https://store.pedroalcocer.com/)
 
 
 ## Other Awesomes
