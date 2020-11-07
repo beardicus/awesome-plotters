@@ -190,7 +190,7 @@ Where to find other plotter and drawbot friends.
 
 ## Plotter Art For Sale
 
-- [Paul Rickards](http://biosrhythm.com/?page_id=1569)
+- [Paul Rickards](https://shop.paulrickards.com)
 - [Michael Fogleman](https://www.michaelfogleman.com/plotter)
 - [inconvergent](http://buy.inconvergent.net)
 - [Customized Streetart](https://www.literalstreetart.com) - Customizable maps with optional pen plotter output.
