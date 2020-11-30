@@ -209,6 +209,7 @@ Where to find other plotter and drawbot friends.
 - [WBlut](https://wblut.com/product-category/mechanical-pen-plot-mini/)
 - [Pedro Alcocer](https://store.pedroalcocer.com/)
 - [AndyMakes](https://shop.andymakes.com/)
+- [Marcel Schwittlick](https://schwittlick.bigcartel.com/)
 
 
 ## Other Awesomes
