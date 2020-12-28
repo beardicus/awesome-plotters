@@ -190,7 +190,7 @@ Where to find other plotter and drawbot friends.
 - [AxiDraw Subreddit](https://www.reddit.com/r/axidraw)
 - [Generative Art Subreddit](https://www.reddit.com/r/generative)
 - [Plotter People](https://plotterpeople.github.io/) - In-person meetups (SF and NYC so far) with talks and plotter art galleries.
-- [DrawingBots Discord forum](https://discordapp.com/invite/XHP3dBg) - Discord Forum with a big active community. 
+- [DrawingBots Discord Forum](https://discordapp.com/invite/XHP3dBg) - Discord forum with an active community. 
 - [PlotterFiles](https://plotterfiles.com/) - Community for sharing SVG files for plotters.
 
 ## Plotter Art For Sale
