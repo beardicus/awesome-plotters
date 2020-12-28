@@ -136,6 +136,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 - [Turtletoy](https://turtletoy.net) - Browser-based JavaScript turtle graphics API with SVG export.
 - [cozyvec](https://github.com/brubsby/cozyvec) - Web/Standalone terminal environment for plotter art and tweet plots.
 - [makio135/plotter](https://observablehq.com/collection/@makio135/plotter) - An [Observable](https://observablehq.com/) notebook collection full of plotter-oriented work.
+- [PlotterFun](https://mitxela.com/plotterfun/) - Browser-based Image to SVG converter similar to SquiggleDraw.
 
 ### Vector Utilities
 
@@ -157,6 +158,7 @@ Single-line vector fonts or "engraving fonts".
 - [hershey-fonts](https://github.com/kamalmostafa/hershey-fonts) - C library and original font data for the Hershey fonts.
 - [OneLineFonts.com](https://www.onelinefonts.com) - Commercial site with some single-line fonts available for purchase.
 - [svg-fonts](https://gitlab.com/oskay/svg-fonts) - Single-line fonts in an SVG format, mainly for use with the [Hershey Text](https://gitlab.com/oskay/hershey-text) Inkscape plugin.
+- [CNC Text Tool](https://msurguy.github.io/cnc-text-tool/) - Browser-based Hershey Text tool with export to SVG.
 
 ## Inspiration and Instruction
 
@@ -188,6 +190,8 @@ Where to find other plotter and drawbot friends.
 - [AxiDraw Subreddit](https://www.reddit.com/r/axidraw)
 - [Generative Art Subreddit](https://www.reddit.com/r/generative)
 - [Plotter People](https://plotterpeople.github.io/) - In-person meetups (SF and NYC so far) with talks and plotter art galleries.
+- [DrawingBots Discord forum](https://discordapp.com/invite/XHP3dBg) - Discord Forum with a big active community. 
+- [PlotterFiles](https://plotterfiles.com/) - Community for sharing SVG files for plotters.
 
 ## Plotter Art For Sale
 
@@ -216,6 +220,7 @@ Where to find other plotter and drawbot friends.
 
 - [awesome-generative-art](https://github.com/kosmos/awesome-generative-art)
 - [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
+- [awesome-3d-engines-for-plotters](https://github.com/msurguy/awesome-3d-engines-for-plotters)
 
 ## License
 
