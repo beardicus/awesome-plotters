@@ -184,6 +184,7 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 - [Hidden wireframe removal](https://trmm.net/Hidden_Wireframe) - Discussion and links to code for wireframe removal of STL files.
 - [How to Draw Generative Art with an Axidraw Pen Plotter](https://www.dirtalleydesign.com/blogs/news/how-to-draw-prints-with-an-axidraw-pen-plotter) - Lots of nice tips, not all specific to the Axidraw, plus some pen reviews and handy 3d-printed tools.
 - [The Best XY Plotters in 2020](https://all3dp.com/2/pen-plotters-best-xy-plotters/) - Good overview of the AxiDraw and its clones, plus some DIY options.
+- [Journal Intime II](https://fr.calameo.com/read/0002895619da2a1b1daf8) - One of Vera Molnár's notebooks, dated 1983–1985
 
 ## Manuals and Ephemera
 
