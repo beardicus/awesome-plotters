@@ -209,6 +209,7 @@ Scanned plotter manuals and marketing ephemera from the [Internet Archive](https
 - [Roland DPX-3300 Schematics (1987)](https://archive.org/details/dpx-3300-schematics)
 - [Roland DPX-3700A DPX-2700A User's Manual (Roland Direct Download)](https://downloadcenter.rolanddg.com/contents/manuals/DPX-3700A+2700A_USE_E_R8.pdf) 
 - [Siemens C1613 Plotter Manual (German)](https://archive.org/details/SiemensC1613Manual)
+- [Panasonic RK-P400C 4-Color Graphic Penwriter Manual](https://archive.org/details/panasonic-rk-p-400-c-manual/)
 
 ### Ephemera
 
