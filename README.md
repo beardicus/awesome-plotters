@@ -144,6 +144,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 - [PlotterFun](https://mitxela.com/plotterfun/) - Browser-based Image to SVG converter similar to SquiggleDraw.
 - [SVG.js](https://svgjs.dev/) - Dependency free lightweight library for creatomg. manipulating and animating SVG.
 - [Components AI](https://components.ai/) - Experimental computational design platform for exploring generative space.
+- [DrawingBotV3](https://github.com/SonarSonic/DrawingBotV3) - Cross-platform software for converting images to line drawings.
 
 ### Vector Utilities
 
