@@ -209,6 +209,7 @@ Scanned plotter manuals and marketing ephemera from the [Internet Archive](https
 - [HP DraftPro Plotter Programmers Reference (1986)](https://archive.org/details/draftproprogrammersreference0757090001387pagessep86)
 - [Radio Shack TRS-80 Plotter Printer Manual](https://archive.org/details/Plotter_Printer_19xx_Radio_Shack)
 - [Roland DXY-880 Operation Manual (1984)](https://archive.org/details/RolandDXY880PlotterOperationManual)
+- [Roland DPX-2000 User's Manual](https://archive.org/details/roland-dpx-2000-manual)
 - [Roland DPX-3300 Operation Manual](https://github.com/sismoke/Roland-DPX-3300/blob/master/manual/DPX-3300.pdf)
 - [Roland DPX-3300 Service Notes (1987) (GitHub)](https://archive.org/details/dpx-3300-service-manual)
 - [Roland DPX-3300 Schematics (1987)](https://archive.org/details/dpx-3300-schematics)
