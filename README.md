@@ -100,7 +100,8 @@ G-code is a text-based standard for controlling CNC machines. Though it was desi
 
 Software that is specific to a particular plotter or controller.
 
-- [axidraw](https://github.com/evil-mad/axidraw) - Official AxiDraw extensions for Inkscape.
+- [axidraw](https://
+.com/evil-mad/axidraw) - Official AxiDraw extensions for Inkscape.
 - [axi](https://github.com/fogleman/axi) - Unofficial Python library for the AxiDraw v3.
 - [xy](https://github.com/fogleman/xy) - Utilities for the Makeblock XY Plotter Robot Kit.
 - [LaserGRBL](https://github.com/arkypita/LaserGRBL) - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
@@ -217,8 +218,8 @@ Scanned plotter manuals and marketing ephemera from the [Internet Archive](https
 - [Roland DXY-990 Operation Manual (1986)](https://archive.org/details/roland-dxy-990)
 - [Roland DXY-1300 -1200 -1100 Command Reference Manual](https://archive.org/details/rolanddxy130012001100commandreferencemanualaf)
 - [Roland DPX-2000 User's Manual](https://archive.org/details/roland-dpx-2000-manual)
-- [Roland DPX-3300 Operation Manual](https://github.com/sismoke/Roland-DPX-3300/blob/master/manual/DPX-3300.pdf)
-- [Roland DPX-3300 Service Notes (1987) (GitHub)](https://archive.org/details/dpx-3300-service-manual)
+- [Roland DPX-3300 Operation Manual (GitHub)](https://github.com/sismoke/Roland-DPX-3300/blob/master/manual/DPX-3300.pdf)
+- [Roland DPX-3300 Service Notes (1987)](https://archive.org/details/dpx-3300-service-manual)
 - [Roland DPX-3300 Schematics (1987)](https://archive.org/details/dpx-3300-schematics)
 - [Roland DPX-3700A DPX-2700A User's Manual (Roland Direct Download)](https://downloadcenter.rolanddg.com/contents/manuals/DPX-3700A+2700A_USE_E_R8.pdf)
 - [Rotring Tubular Plotter Points Practical Tips and Information](https://archive.org/details/rotingtubularplotterpointprakticaltipsandinformation)
