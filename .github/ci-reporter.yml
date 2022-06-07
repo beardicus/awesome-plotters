@@ -1,3 +1,0 @@
-updateComment: true
-before: "✨ Thank you for this pull request! ✨ Unfortunately, the [{{ provider }} build]({{ targetUrl }}) is failing as of {{ commit }}. Here's the output:"
-after: "This is likely due to a broken link. Double-check your links and if they're not actually broken, we may need to update the tests instead."
