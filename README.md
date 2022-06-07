@@ -30,7 +30,6 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 - [AxiDraw](https://shop.evilmadscientist.com/productsmenu/846) - Pen plotter from [Evil Mad Scientist](https://www.evilmadscientist.com), very popular on #plottertwitter.
 - [Line-us](https://www.line-us.com) - A cute little kickstarted robotic drawing arm.
-- [Makeblock XY Plotter](http://learn.makeblock.com/en/xy-plotter-robot-kit) - Hackable XY plotter kit (discontinued?).
 - [Drawing Robot](https://www.thingiverse.com/thing:2349232) - 3d-Printable AxiDraw clone w/ Arduino CNC Shield controller running grbl firmware.
 - [4xiDraw](https://www.instructables.com/id/4xiDraw/) - Yet another 3d-printable AxiDraw clone w/ Arduino CNC Shield controller running grbl firmware.
 - [WaterColorBot](https://watercolorbot.com) - XY art robot and software to plot with watercolor paints.
@@ -38,7 +37,6 @@ A curated list of code and resources for computer-controlled drawing machines an
 - [HP Pen Plotters](https://www.hpmuseum.net/exhibit.php?class=4&cat=24) - Vintage desktop and floor-standing pen plotters from the creator of the HPGL standard. Model 7475A is very common and can usually be found on eBay.
 - [Roland Pen Plotters](https://www.youtube.com/watch?v=6_pwzqPk6Gg) - Vintage flatbed HPGL pen plotters. Search eBay for "roland dxy".
 - [Polargraph](http://www.polargraph.co.uk) - The original polargraph hardware and software project.
-- [Makelangelo](http://www.makelangelo.com) - Open source polargraph artbot.
 - [BrachioGraph](https://brachiograph.readthedocs.io/en/latest/) - A cheap and simple plotter made from sticks, servos, and a Raspberry Pi running Python.
 - [Arduino CNC Drawing Machine](https://www.diymachines.co.uk/arduino-cnc-drawing-machine) - A fairly simple 3d-printed AxiDraw-style plotter with good video documentation.
 
@@ -56,9 +54,8 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 ### Pens
 
-- [Sharpie Fine Point Plotter Adapter](https://www.thingiverse.com/thing:229982) - 3d-printed adapter to fit a standard Sharpie in an HP-GL plotter.
-- [Parametric 3d-Printable Plotter Pen Adapter](https://openjscad.org/#https://gist.githubusercontent.com/beardicus/d668c0f6b96be53d16dc/raw/plotter-pen-adapter.jscad) - Adjustable model to print adapters for various pens.
-- [Plotter Pen STL Models](https://www.thingiverse.com/thing:227985) - Accurate STL models of both short and long standard plotter pens.
+- [Sharpie Fine Point Plotter Adapter](https://www.printables.com/model/156721-sharpie-fine-point-plotter-adapter) - 3d-printed adapter to fit a standard Sharpie in an HP-GL plotter.
+- [Plotter Pen STL Models](https://www.printables.com/model/156722-plotter-pen) - Accurate STL models of both short and long standard plotter pens.
 - [Pens for AxiDraw](https://wiki.evilmadscientist.com/Pens_for_AxiDraw) - List of pens suitable for general plotter abuse.
 - [Pens for EggBot](https://wiki.evilmadscientist.com/Pen_choices) - Egg- and glass-focused pen recommendations but still generally applicable information.
 - [JetPens – The Best White Ink Pens](https://www.jetpens.com/blog/the-best-white-ink-pens/pt/340) - A comprehensive review of many white ink pens, with pictures of their coverage characteristics.
@@ -70,7 +67,6 @@ A curated list of code and resources for computer-controlled drawing machines an
 HPGL is a serial/text-based protocol used by most old pen plotters, and even many new vinyl cutters.
 
 - [Chiplotle](https://github.com/drepetto/chiplotle) - Python library for generating HPGL and interfacing with serial plotters.
-- [Chiplotle on Parallel Port](https://gitlab.com/mononym/chiplotle-on-parallel-port) - Tweak of Chiplotle to work with a parallel port connection.
 - [HPGL Reference Guide](https://www.isoplotec.co.jp/HPGL/eHPGL.htm) - HTML-based HPGL Reference.
 - [HP 7475A Interfacing and Programming Manual](https://archive.org/details/HP7475AInterfacingandProgrammingManual) - Scanned PDF manual that contains a full HPGL reference.
 - [djipco/hpgl](https://github.com/djipco/hpgl) - A Node.js library to communicate with HPGL-compatible plotters and printers.
@@ -174,8 +170,7 @@ Single-line vector fonts or "engraving fonts".
 
 Blog posts, articles, tutorials, galleries, videos, et cetera.
 
-- [An Intro to Pen Plotters](https://medium.com/quarterstudio/an-intro-to-pen-plotters-29b6bd4327ba) - Good info on getting started with old HPGL plotters.
-- [1980s pen plotters of the future](https://notes.variogr.am/2012/08/12/1980s-pen-plotters-of-the-future) - Another intro to vintage pen plotters.
+- [An Intro to Pen Plotters](https://medium.com/quarterstudio/an-intro-to-pen-plotters-29b6bd4327ba) - Good info on getting started with old HPGL plotters .
 - [Pen Plotter Programming: The Basics](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929) - Some basics of programming vector paths, including sorting, joining, and simplifying.
 - [On Generative Algorithms](https://inconvergent.net/generative) - Nice 13-part walkthrough of interesting algorithms.
 - [Roland DG DXY-990](https://hackaday.io/project/12276-roland-dg-dxy-990) - Quickstart guide for a Roland flatbed plotter.
@@ -189,7 +184,6 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 - [Hidden wireframe removal](https://trmm.net/Hidden_Wireframe) - Discussion and links to code for wireframe removal of STL files.
 - [How to Draw Generative Art with an Axidraw Pen Plotter](https://www.dirtalleydesign.com/blogs/news/how-to-draw-prints-with-an-axidraw-pen-plotter) - Lots of nice tips, not all specific to the Axidraw, plus some pen reviews and handy 3d-printed tools.
 - [The Best XY Plotters in 2020](https://all3dp.com/2/pen-plotters-best-xy-plotters/) - Good overview of the AxiDraw and its clones, plus some DIY options.
-- [Journal Intime II](https://fr.calameo.com/read/0002895619da2a1b1daf8) - One of Vera Molnár's notebooks, dated 1983–1985.
 
 ## Manuals and Ephemera
 
@@ -267,7 +261,6 @@ Where to find other plotter and drawbot friends.
 - [BustBright](https://mkt.com/bustbright)
 - [Martin O'Leary](https://shop.mewo2.com)
 - [Geoffrey Bradway](https://www.chromatocosmos.com/)
-- [Andrew Heumann](https://shop.andrewheumann.com/)
 - [brubsby](http://shop.brubsby.com/)
 - [Arjan van der Meij](https://dutchplottr.nl/en/)
 - [Nadieh Bremer](https://shop.visualcinnamon.com/collections/pen-plotter-prints)
