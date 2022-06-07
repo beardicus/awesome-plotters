@@ -28,11 +28,11 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 ### Plotters
 
-- [AxiDraw](https://shop.evilmadscientist.com/productsmenu/846) - Pen plotter from [Evil Mad Scientist](https://www.evilmadscientist.com), very popular on [#plottertwitter](https://twitter.com/hashtag/plottertwitter).
+- [AxiDraw](https://shop.evilmadscientist.com/productsmenu/846) - Pen plotter from [Evil Mad Scientist](https://www.evilmadscientist.com), very popular on #plottertwitter.
 - [Line-us](https://www.line-us.com) - A cute little kickstarted robotic drawing arm.
 - [Makeblock XY Plotter](http://learn.makeblock.com/en/xy-plotter-robot-kit) - Hackable XY plotter kit (discontinued?).
-- [Drawing Robot](https://www.thingiverse.com/thing:2349232) - 3d-Printable AxiDraw clone w/ [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) controller running grbl firmware.
-- [4xiDraw](https://www.instructables.com/id/4xiDraw/) - Yet another 3d-printable AxiDraw clone w/ [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) controller running grbl firmware.
+- [Drawing Robot](https://www.thingiverse.com/thing:2349232) - 3d-Printable AxiDraw clone w/ Arduino CNC Shield controller running grbl firmware.
+- [4xiDraw](https://www.instructables.com/id/4xiDraw/) - Yet another 3d-printable AxiDraw clone w/ Arduino CNC Shield controller running grbl firmware.
 - [WaterColorBot](https://watercolorbot.com) - XY art robot and software to plot with watercolor paints.
 - [EggBot](https://egg-bot.com) - Pen plotter for egg-shaped and spherical objects.
 - [HP Pen Plotters](https://www.hpmuseum.net/exhibit.php?class=4&cat=24) - Vintage desktop and floor-standing pen plotters from the creator of the HPGL standard. Model 7475A is very common and can usually be found on eBay.
@@ -46,7 +46,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 - [grblShield](https://github.com/synthetos/grblShield) - All the stepper motor control hardware needed to turn an [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
 - [TinyG](https://github.com/synthetos/TinyG) - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
-- [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) - Grbl-compatible stepper motor control shield for Arduino, similar to the [grblShield](https://github.com/synthetos/grblShield).
+- [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) - Grbl-compatible stepper motor control shield for Arduino, similar to the grblShield.
 - [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC) - Raspberry Pi add-on board w/ stepper controllers and a microcontroller running grbl. Interfaces with the Pi's serial pins.
 
 ### Accessories
@@ -100,14 +100,13 @@ G-code is a text-based standard for controlling CNC machines. Though it was desi
 
 Software that is specific to a particular plotter or controller.
 
-- [axidraw](https://
-.com/evil-mad/axidraw) - Official AxiDraw extensions for Inkscape.
+- [axidraw](https://github.com/evil-mad/axidraw) - Official AxiDraw extensions for Inkscape.
 - [axi](https://github.com/fogleman/axi) - Unofficial Python library for the AxiDraw v3.
 - [xy](https://github.com/fogleman/xy) - Utilities for the Makeblock XY Plotter Robot Kit.
 - [LaserGRBL](https://github.com/arkypita/LaserGRBL) - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
-- [Line-us Inkscape Plugin](https://github.com/Line-us/Inkscape-Plugin) - Sends drawings to the [Line-us plotter](https://www.line-us.com) directly from Inkscape.
-- [Line-us API Examples](https://github.com/Line-us/Line-us-Programming) - Example code for the [Line-us](https://www.line-us.com) plotter's G-code-based API.
-- [@beardicus/line-us](https://github.com/beardicus/line-us) - JavaScript library for controlling the [Line-us](https://www.line-us.com) machine from Node or the browser.
+- [Line-us Inkscape Plugin](https://github.com/Line-us/Inkscape-Plugin) - Sends drawings to the Line-us plotter directly from Inkscape.
+- [Line-us API Examples](https://github.com/Line-us/Line-us-Programming) - Example code for the Line-us plotter's G-code-based API.
+- [@beardicus/line-us](https://github.com/beardicus/line-us) - JavaScript library for controlling the Line-us machine from Node or the browser.
 - [PenPlotter](https://github.com/RickMcConney/PenPlotter) - Polargraph controller that uses repetier firmware.
 - [Makelangelo-firmware](https://github.com/MarginallyClever/Makelangelo-firmware) - Firmware for the Makelangelo polargraph robot.
 - [RoboPaint](https://github.com/evil-mad/robopaint) - Software for the WaterColorBot.
@@ -186,12 +185,11 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 - [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) - A two-part intro to creating generative graphics for plotting.
 - [Surface Projection](https://bitaesthetics.com/posts/surface-projection.html) - Deep dive into surface projection and hidden line removal using Python and penplot.
 - [Fractal Generation with L-Systems](https://bitaesthetics.com/posts/fractal-generation-with-l-systems.html) - Techniques for creating line-based fractal graphics.
-- [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) - Introduction to plotters, AxiDraw, walkthrough of the `penplot` library.
 - [Introduction to TSP art](https://wiki.evilmadscientist.com/TSP_art) - Resources for traveling salesman problem (single path) art.
 - [Hidden wireframe removal](https://trmm.net/Hidden_Wireframe) - Discussion and links to code for wireframe removal of STL files.
 - [How to Draw Generative Art with an Axidraw Pen Plotter](https://www.dirtalleydesign.com/blogs/news/how-to-draw-prints-with-an-axidraw-pen-plotter) - Lots of nice tips, not all specific to the Axidraw, plus some pen reviews and handy 3d-printed tools.
 - [The Best XY Plotters in 2020](https://all3dp.com/2/pen-plotters-best-xy-plotters/) - Good overview of the AxiDraw and its clones, plus some DIY options.
-- [Journal Intime II](https://fr.calameo.com/read/0002895619da2a1b1daf8) - One of Vera Molnár's notebooks, dated 1983–1985
+- [Journal Intime II](https://fr.calameo.com/read/0002895619da2a1b1daf8) - One of Vera Molnár's notebooks, dated 1983–1985.
 
 ## Manuals and Ephemera
 
@@ -284,9 +282,3 @@ Where to find other plotter and drawbot friends.
 - [awesome-generative-art](https://github.com/kosmos/awesome-generative-art)
 - [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
 - [awesome-3d-engines-for-plotters](https://github.com/msurguy/awesome-3d-engines-for-plotters)
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Brian Boucheron](https://boucheron.org/brian) has waived all copyright and related or neighboring rights to this work.
