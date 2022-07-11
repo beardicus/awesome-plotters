@@ -189,7 +189,7 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 
 ## Manuals and Ephemera
 
-Scanned plotter manuals and marketing ephemera from the [Internet Archive](https://archive.org)
+Scanned plotter manuals and marketing ephemera, mostly from the [Internet Archive](https://archive.org)
 
 ### Manuals
 
@@ -239,6 +239,7 @@ Scanned plotter manuals and marketing ephemera from the [Internet Archive](https
 - [Roland DG Plotter Ad in Byte Magazine Vol 12 No 4 (1987)](https://archive.org/details/byte-magazine-1987-04/page/n159/mode/2up) ([via @OldTechAdverts](https://twitter.com/OldTechAdverts/status/1454558415355850755))
 - [Auerbach On Digital Plotters And Image Digitizers (1972)](https://archive.org/details/auerbachondigitalplottersandimagedigitizers) - A book about plotters and digitizers.
 - [CalComp Graphics Products Brochure (1981)](https://archive.org/details/TNM_CalComp_graphics_products_plotters_and_printe_20171101_0032)
+- [CalComp Plotters in 1968](https://www.youtube.com/watch?v=AAc4VLR6-Dg) - Promotional video showing a flatbed CalComp plotter and its output.
 
 ## Community
 
