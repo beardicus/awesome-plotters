@@ -16,7 +16,7 @@ A curated list of code and resources for computer-controlled drawing machines an
   - [Vector Creation](#vector-creation)
   - [Vector Utilities](#vector-utilities)
   - [Fonts](#fonts)
-- [Inspiration and Instruction](#inspiration-and-instruction)
+- [Inspiration, Instruction, and Research](#inspiration-instruction-and-research)
 - [Manuals and Ephemera](#manuals-and-ephemera)
   - [Manuals](#manuals)
   - [Ephemera](#ephemera)
@@ -168,7 +168,7 @@ Single-line vector fonts or "engraving fonts".
 - [svg-fonts](https://gitlab.com/oskay/svg-fonts) - Single-line fonts in an SVG format, mainly for use with the [Hershey Text](https://gitlab.com/oskay/hershey-text) Inkscape plugin.
 - [CNC Text Tool](https://msurguy.github.io/cnc-text-tool/) - Browser-based Hershey Text tool with export to SVG.
 
-## Inspiration and Instruction
+## Inspiration, Instruction, and Research
 
 Blog posts, articles, tutorials, galleries, videos, et cetera.
 
@@ -187,6 +187,7 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 - [How to Draw Generative Art with an Axidraw Pen Plotter](https://www.dirtalleydesign.com/blogs/news/how-to-draw-prints-with-an-axidraw-pen-plotter) - Lots of nice tips, not all specific to the Axidraw, plus some pen reviews and handy 3d-printed tools.
 - [The Best XY Plotters in 2020](https://all3dp.com/2/pen-plotters-best-xy-plotters/) - Good overview of the AxiDraw and its clones, plus some DIY options.
 - [What is a pen plotter 2022?](https://www.youtube.com/watch?v=J1NpYzETm3M) - Nice video introduction to modern plotters in 2022.
+- [Tools, Tricks, and Hacks: Exploring Novel Digital Fabrication Workflows on #PlotterTwitter](https://dl.acm.org/doi/abs/10.1145/3411764.3445653) - Research paper on the novel workflows of the plotter community, by folks at [Machine Agency](https://depts.washington.edu/machines/).
 
 ## Manuals and Ephemera
 
