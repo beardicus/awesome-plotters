@@ -187,7 +187,7 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 - [How to Draw Generative Art with an Axidraw Pen Plotter](https://www.dirtalleydesign.com/blogs/news/how-to-draw-prints-with-an-axidraw-pen-plotter) - Lots of nice tips, not all specific to the Axidraw, plus some pen reviews and handy 3d-printed tools.
 - [The Best XY Plotters in 2020](https://all3dp.com/2/pen-plotters-best-xy-plotters/) - Good overview of the AxiDraw and its clones, plus some DIY options.
 - [What is a pen plotter 2022?](https://www.youtube.com/watch?v=J1NpYzETm3M) - Nice video introduction to modern plotters in 2022.
-- [Tools, Tricks, and Hacks: Exploring Novel Digital Fabrication Workflows on #PlotterTwitter](https://dl.acm.org/doi/abs/10.1145/3411764.3445653) - Research paper on the novel workflows of the plotter community, by folks at [Machine Agency](https://depts.washington.edu/machines/).
+- [Tools, Tricks, and Hacks: Exploring Novel Digital Fabrication Workflows on #PlotterTwitter](https://dl.acm.org/doi/abs/10.1145/3411764.3445653) - Research paper on the novel workflows of the plotter community ([Video Summary](https://www.youtube.com/watch?v=xqhT-8ElJ68)).
 
 ## Manuals and Ephemera
 
