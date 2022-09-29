@@ -249,6 +249,7 @@ Scanned plotter manuals and marketing ephemera, mostly from the [Internet Archiv
 - [CalComp Plotters in 1968](https://www.youtube.com/watch?v=AAc4VLR6-Dg) - Promotional video showing a flatbed CalComp plotter and its output.
 - [Houston Instrument DMP-41 and DMP-42 Plotters Brochure](https://archive.org/details/hi-dmp-41-42-brochure)
 - [Houston Instrument DMP-51/52 Series Brochure](https://archive.org/details/hi-dmp-51-52-brochure)
+- [Houston Instrument Omnigraphic Plotter Brochure](https://archive.org/details/TNM_Omnigraphic_Plotter_20171016_0228)
 
 
 ## Community
