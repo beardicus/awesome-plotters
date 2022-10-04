@@ -280,7 +280,6 @@ Where to find other plotter and drawbot friends.
 - [Arjan van der Meij](https://dutchplottr.nl/en/)
 - [Nadieh Bremer](https://shop.visualcinnamon.com/collections/pen-plotter-prints)
 - [Michelle Chandra](https://www.dirtalleydesign.com/)
-- [Jessica In](https://www.jessicain.net/shop-originals)
 - [Pedro Alcocer](https://store.pedroalcocer.com/)
 - [AndyMakes](https://shop.andymakes.com/)
 - [Marcel Schwittlick](https://schwittlick.bigcartel.com/)
