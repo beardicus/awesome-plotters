@@ -269,7 +269,6 @@ Where to find other plotter and drawbot friends.
 - [Paul Rickards](https://shop.paulrickards.com)
 - [Michael Fogleman](https://www.michaelfogleman.com/plotter)
 - [inconvergent](http://buy.inconvergent.net)
-- [Customized Streetart](https://www.literalstreetart.com) - Customizable maps with optional pen plotter output.
 - [Monica Rizzolli](https://www.saatchiart.com/account/artworks/155196)
 - [EmergentDesign](https://emergentdesign.bigcartel.com/products)
 - [BustBright](https://mkt.com/bustbright)
