@@ -163,7 +163,6 @@ Single-line vector fonts or "engraving fonts".
 - [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) - Good information and links to other resources and fonts.
 - [Hershey Vector Font](http://paulbourke.net/dataformats/hershey) - `.fnt` format of vector fonts from the 60s. Includes a good overview of the original data format of the fonts.
 - [hershey-fonts](https://github.com/kamalmostafa/hershey-fonts) - C library and original font data for the Hershey fonts.
-- [OneLineFonts.com](https://www.onelinefonts.com) - Commercial site with some single-line fonts available for purchase.
 - [svg-fonts](https://gitlab.com/oskay/svg-fonts) - Single-line fonts in an SVG format, mainly for use with the [Hershey Text](https://gitlab.com/oskay/hershey-text) Inkscape plugin.
 - [CNC Text Tool](https://msurguy.github.io/cnc-text-tool/) - Browser-based Hershey Text tool with export to SVG.
 
