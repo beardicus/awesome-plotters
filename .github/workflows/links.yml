@@ -15,7 +15,8 @@ jobs:
       - name: Lychee Link Checker
         id: lychee
         uses: lycheeverse/lychee-action@v1.5.1
-        args: --exclude twitter\.com
+        with:
+          args: --exclude twitter\.com
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
