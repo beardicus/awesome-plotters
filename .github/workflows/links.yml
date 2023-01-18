@@ -16,7 +16,7 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@v1.5.1
         with:
-          args: --exclude twitter.com
+          args: --exclude twitter.com './README.md'
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
