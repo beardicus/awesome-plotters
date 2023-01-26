@@ -259,7 +259,6 @@ Scanned plotter manuals and marketing ephemera, mostly from the [Internet Archiv
 
 Where to find other plotter and drawbot friends.
 
-- [#plottertwitter](https://twitter.com/hashtag/plottertwitter) - Twitter hashtag with lots o' plots.
 - [PlotterArt Subreddit](https://www.reddit.com/r/PlotterArt)
 - [AxiDraw Subreddit](https://www.reddit.com/r/axidraw)
 - [Generative Art Subreddit](https://www.reddit.com/r/generative)
