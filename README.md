@@ -93,9 +93,9 @@ G-code is a text-based standard for controlling CNC machines. Though it was desi
 - [gcode-generative-for-processing](https://github.com/o0morgan0o/gcode-generative-for-processing) - Processing library, aiming to create gcode from simple shapes. (Designed for usage with the Creality CR10)
 - [gcodeplot](https://github.com/arpruss/gcodeplot) - Python utility to convert SVG and HPGL to G-code for a 3-axis CNC machine.
 
-### Plotter-Specific
+### Plotter Control
 
-Software that is specific to a particular plotter or controller.
+Software for controlling plotter hardware.
 
 - [axidraw](https://github.com/evil-mad/axidraw) - Official AxiDraw extensions for Inkscape.
 - [axi](https://github.com/fogleman/axi) - Unofficial Python library for the AxiDraw v3.
@@ -111,6 +111,7 @@ Software that is specific to a particular plotter or controller.
 - [GRBL-Plotter](https://github.com/svenhb/GRBL-Plotter) - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
 - [saxi](https://github.com/nornagon/saxi) - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
 - [MP2300-Tools](https://github.com/Jan--Henrik/MP2300-Tools) - Software for converting HPGL to Graphtec's GPGL format, as well as CAD files for a Graphtec plotter pen adapter.
+- [Inkcut](https://github.com/inkcut/inkcut) - Application for controlling 2D plotters, cutters, engravers, and CNC machines.
 
 ### Vector Creation
 
