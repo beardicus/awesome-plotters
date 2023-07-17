@@ -12,7 +12,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 - [Software](#software)
   - [HPGL](#hpgl)
   - [G-code](#g-code)
-  - [Plotter-Specific](#plotter-specific)
+  - [Plotter Control](#plotter-control)
   - [Vector Creation](#vector-creation)
   - [Vector Utilities](#vector-utilities)
   - [Fonts](#fonts)
