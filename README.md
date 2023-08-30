@@ -133,6 +133,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 - [penkit](https://github.com/paulgb/penkit) - A Python library for creating line-based SVG graphics.
 - [generativeExamples](https://github.com/digitalcoleman/generativeExamples) - Example Processing code that generates plottable PDFs.
 - [Let's make map](https://svg-exporter.netlify.com) - Web-based tool to export an SVG map from Mapzen tiles.
+- [LineDream](https://linedream.marcrleonard.com/) - A generative art library for Python that can export SVGs.
 - [SuperformulaSVG for web](https://jasonwebb.github.io/SuperformulaSVG-for-web) - A generative line art web app.
 - [scribbleplot](https://github.com/bleeptrack/scribbleplot) - Scribbly image transformations in Processing.
 - [Maker.js](https://maker.js.org) - Library for creating 2D vector drawings for CNC and laser cutter machines.
