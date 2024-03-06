@@ -77,7 +77,7 @@ HPGL is a serial/text-based protocol used by most old pen plotters, and even man
 - [HPGL Viewer](https://github.com/drskullster/HPGLViewer) - An HPGL Viewer using JavaScript and HTML5 canvas.
 - [HPGL Sender](https://github.com/LgHS/hpgl-sender) - A web interface for previewing HPGL and sending it to your plotter.
 - [HPGLGraphics](https://github.com/ciaron/HPGLGraphics) - A Processing library for writing HPGL files.
-- [processing2hpgl](https://awdriggs.github.io/processing2hpgl/) - Another Processing library. Allows for direct communication with HPGL pen plotters within a Processing sketch.
+- [processing2hpgl](https://github.com/awdriggs/processing2hpgl) - A Processing library that allows for direct communication with HPGL pen plotters from within a Processing sketch.
 
 ### G-code
 
