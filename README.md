@@ -284,7 +284,7 @@ Sorted alphabetically by company name and product name.
 - [Houston Instrument DMP-41 and DMP-42 Plotters Brochure](https://archive.org/details/hi-dmp-41-42-brochure)
 - [Houston Instrument DMP-51/52 Series Brochure](https://archive.org/details/hi-dmp-51-52-brochure)
 - [Houston Instrument Omnigraphic Plotter Brochure](https://archive.org/details/TNM_Omnigraphic_Plotter_20171016_0228)
-- [Sweet-P Plotter Brochure and Price List](http://www.bitsavers.org/pdf/enterComputer/brochures/Sweet-P-PersonalPlotter+prricelistBrochure.pdf) – Four-page color marketing brochure with attached suggested retail price list.
+- [Sweet-P Plotter Brochure and Price List](https://archive.org/details/bitsavers_enterCompuersonalPlotterprricelistBrochure_4929854) – Four-page color marketing brochure with attached suggested retail price list.
 
 ## Community
 
