@@ -17,10 +17,11 @@ A curated list of code and resources for computer-controlled drawing machines an
   - [Vector Utilities](#vector-utilities)
   - [Fonts](#fonts)
 - [Inspiration, Instruction, and Research](#inspiration-instruction-and-research)
-- [Manuals, Ephemera, and Papers](#manuals-ephemera-and-papers)
+- [Manuals, Ephemera, Papers, and Patents](#manuals-ephemera-papers-and-patents)
   - [Manuals](#manuals)
   - [Ephemera](#ephemera)
   - [Papers](#papers)
+  - [Patents](#patents)
 - [Community](#community)
 - [Plotter Art For Sale](#plotter-art-for-sale)
 - [Other Awesomes](#other-awesomes)
@@ -212,10 +213,11 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 - [Bottle Plotter](https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html) – Blog post about building a cylindrical pen plotter for drawing on wine bottles.
 - [Buildlog.net Atari 1020 Plotter Retrofit](https://www.buildlog.net/blog/2019/10/inktober-project-2019-post-5/) – Blog post and video about converting an Atari 1020 plotter to use a ESP32-based GRBL controller.
 - [Texas Instruments HX-1000 Plotter Photos](http://www.hexbus.com/TI-99_4A_Home_Computer_Page/Hexbus_HX-1000_Printer_Plotter.html) – Photo gallery of the plotter's exterior, interior, and packaging.
+- [Making cheap HP plotter pens](https://scruss.com/blog/2014/04/06/making-cheap-hp-plotter-pens-yet-another-hp-gl-viewer/) – Blog post mainly about using vinyl cutter parts as pen holders.
 
-## Manuals, Ephemera, and Papers
+## Manuals, Ephemera, Papers, and Patents
 
-Scanned plotter manuals, marketing ephemera, and academic papers. Thank you to the [Internet Archive](https://archive.org) for most of these.
+Scanned plotter manuals, marketing ephemera, academic papers, and patents. Thank you to the [Internet Archive](https://archive.org) for most of these.
 
 ### Manuals
 
@@ -314,6 +316,10 @@ Sorted alphabetically by company name and product name.
 - [Toward Aesthetic Guidelines for Paintings with the Aid of a Computer (1975) (PDF)](https://rednoise.org/softas/uploads/molnar.pdf) – Vera Molnar
 - [Pen Plotter as a Low-Cost Platform for Rapid Device Prototyping with Solution-Processable Nanomaterials (2023) (PDF)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/adem.202300226)
 - [Preparation of V2O5 Thin Film by Sol–Gel Technique and Pen Plotter Printing](https://www.proquest.com/docview/2791602751)
+
+### Patents
+
+- [Adaptor for universal X-Y plotter pen](https://patents.google.com/patent/US4943817)
 
 ## Community
 
