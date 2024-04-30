@@ -202,7 +202,6 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 - [CuriousMarc: HP 7475A Plotter and HPGL Demo](https://www.youtube.com/watch?v=Tr7Mbw9gLpk) - Video of an HP 7475A plotting some demos.
 - [CuriousMarc: Refilling or Replacing Vintage HP Plotter Pens](https://www.youtube.com/watch?v=h-oj4HrTH14) - Video showing how to open, clean, and refill vintage HP plotter pens.
 - [Commodore 1520 Plotter Demonstration](https://www.youtube.com/watch?v=QwPTluBvKLU) - Video of the Commodore 1520 plotter in action, including a cover-off shot of the mechanism.
-- [Vera Molnar: Toward Aesthetic Guidelines for Paintings with the Aid of a Computer](https://rednoise.org/softas/uploads/molnar.pdf)
 - [Tech Tangents: Gold Standard Plotter - HP 7475A](https://www.youtube.com/watch?v=8785ktWD7vQ) - Video with some HPGL and plotter history, plus operating an HP 7475A from an IBM 5160 microcomputer.
 - [curiousmarc.com: HP 7475A Plotter](https://www.curiousmarc.com/computing/hp-7475a-plotter) - A great collection of info, ephemera, plot files, three YouTube videos, and a 3d-printable replacement part for the HP 7475A.
 - [From Lettering Guides to CNC Plotters](https://www.typotheque.com/articles/from-lettering-guides-to-cnc-plotters-a-brief-history-of-technical-lettering-tools) - "A Brief History of Technical Lettering Tools".
@@ -213,9 +212,9 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 - [Buildlog.net Atari 1020 Plotter Retrofit](https://www.buildlog.net/blog/2019/10/inktober-project-2019-post-5/) – Blog post and video about converting an Atari 1020 plotter to use a ESP32-based GRBL controller.
 - [Texas Instruments HX-1000 Plotter Photos](http://www.hexbus.com/TI-99_4A_Home_Computer_Page/Hexbus_HX-1000_Printer_Plotter.html) – Photo gallery of the plotter's exterior, interior, and packaging.
 
-## Manuals and Ephemera
+## Manuals, Ephemera, and Papers
 
-Scanned plotter manuals and marketing ephemera, mostly from the [Internet Archive](https://archive.org)
+Scanned plotter manuals, marketing ephemera, and academic papers. Thank you to the [Internet Archive](https://archive.org) for most of these.
 
 ### Manuals
 
@@ -308,6 +307,11 @@ Sorted alphabetically by company name and product name.
 - [Sweet-P Plotter Brochure and Price List](https://archive.org/details/bitsavers_enterCompuersonalPlotterprricelistBrochure_4929854) – Four-page color marketing brochure with attached suggested retail price list.
 - [IEEE Electronic Systems News Autumn (1985)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5345111) – Review of the three-color Penman robotic plotter.
 - [Apple II Business Graphics Film (1982)](https://archive.org/details/apple-ii-business-graphics) – There's a Strobe Model 100 Graphics Plotter drawing bar charts at 4:57.
+
+### Papers
+
+- [Toward Aesthetic Guidelines for Paintings with the Aid of a Computer (1975) (PDF)](https://rednoise.org/softas/uploads/molnar.pdf) – Vera Molnar
+- [Pen Plotter as a Low-Cost Platform for Rapid Device Prototyping with Solution-Processable Nanomaterials (2023) (PDF)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/adem.202300226)
 
 ## Community
 
