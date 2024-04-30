@@ -214,6 +214,7 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 - [Buildlog.net Atari 1020 Plotter Retrofit](https://www.buildlog.net/blog/2019/10/inktober-project-2019-post-5/) – Blog post and video about converting an Atari 1020 plotter to use a ESP32-based GRBL controller.
 - [Texas Instruments HX-1000 Plotter Photos](http://www.hexbus.com/TI-99_4A_Home_Computer_Page/Hexbus_HX-1000_Printer_Plotter.html) – Photo gallery of the plotter's exterior, interior, and packaging.
 - [Making cheap HP plotter pens](https://scruss.com/blog/2014/04/06/making-cheap-hp-plotter-pens-yet-another-hp-gl-viewer/) – Blog post mainly about using vinyl cutter parts as pen holders.
+- [Marcel Schwittlick and The Long Run](https://www.artxcode.io/journal/marcel-schwittlick-the-long-run) – Interview with Marcel, and lots of photos and videos of his work and workspace.
 
 ## Manuals, Ephemera, Papers, and Patents
 
