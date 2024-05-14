@@ -217,6 +217,8 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 - [Making cheap HP plotter pens](https://scruss.com/blog/2014/04/06/making-cheap-hp-plotter-pens-yet-another-hp-gl-viewer/) – Blog post mainly about using vinyl cutter parts as pen holders.
 - [Marcel Schwittlick and The Long Run](https://www.artxcode.io/journal/marcel-schwittlick-the-long-run) – Interview with Marcel, and lots of photos and videos of his work and workspace.
 - [Lars Wander and Mixing Paint With Code](https://www.artxcode.io/journal/lars-wander-interview) – Interview with Lars Wander, plus art and videos.
+- [Flatulence, Crystals, and Happy Little Accidents by Nick Fitzgerald (RustConf 2019)](https://www.youtube.com/watch?v=Ho3xr4b60Zg) — A RustConf talk with very little Rust, more about the creative process of generative art and pen plotters.
+- [Recreating Retro Plotter Art, by Sher Minn (Plotter People #1)](https://www.youtube.com/watch?v=OR_TzMFhv50) — Conference talk with lots of great computer and plotter history.
 
 ## Manuals, Ephemera, Papers, and Patents
 
