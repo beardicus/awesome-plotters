@@ -345,6 +345,10 @@ Sorted alphabetically by company name and product name.
 
 - [Adaptor for universal X-Y plotter pen](https://patents.google.com/patent/US4943817)
 
+## Courses
+
+- [Course "Painting with Plotters" by Licia He](https://www.eyesofpanda.com/project/painting_with_plotters/)
+
 ## Community
 
 Where to find other plotter and drawbot friends.
