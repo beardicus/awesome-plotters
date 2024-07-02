@@ -22,6 +22,7 @@ A curated list of code and resources for computer-controlled drawing machines an
   - [Ephemera](#ephemera)
   - [Papers](#papers)
   - [Patents](#patents)
+- [Course](#courses)
 - [Community](#community)
 - [Plotter Art For Sale](#plotter-art-for-sale)
 - [Other Awesomes](#other-awesomes)
@@ -345,6 +346,10 @@ Sorted alphabetically by company name and product name.
 ### Patents
 
 - [Adaptor for universal X-Y plotter pen](https://patents.google.com/patent/US4943817)
+
+## Courses
+
+- [Painting with Plotters](https://www.eyesofpanda.com/project/painting_with_plotters/) - A work-in-progress course by Licia He, to be released September 2024.
 
 ## Community
 
