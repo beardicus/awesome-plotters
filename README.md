@@ -120,6 +120,7 @@ Software for controlling plotter hardware.
 - [saxi](https://github.com/nornagon/saxi) - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
 - [MP2300-Tools](https://github.com/Jan--Henrik/MP2300-Tools) - Software for converting HPGL to Graphtec's GPGL format, as well as CAD files for a Graphtec plotter pen adapter.
 - [Inkcut](https://github.com/inkcut/inkcut) - Application for controlling 2D plotters, cutters, engravers, and CNC machines.
+- [pypenwriter](https://github.com/Lana-chan/pypenwriter) - Python script to convert and send SVG drawings to the Panasonic PenWriter family of typewriter plotters.
 
 ### Vector Creation
 
