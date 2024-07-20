@@ -157,6 +157,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 - [plotting-maps](https://github.com/piebro/plotting-maps) - A simple web tool to create OpenStreetMap SVG maps for plotting.
 - [ThreadPlotter](https://github.com/LiciaHe/threadPlotter) - "A toolkit for the design and fabrication of delicate punch needle embroidery using X-Y plotters".
 - [PINTR](https://javier.xyz/pintr) - Plottable random line drawings from your images.
+- [Studio](https://u840903.github.io/multiplication-mandalas/#table=2&start=0&end=100&modulo=320&rotation=11&minLength=377.4&keepEveryNLines=1&keepEveryNLinesShift=0&center=0) - A tool for creating multiplication mandalas.
 
 ### Vector Utilities
 
