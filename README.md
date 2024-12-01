@@ -160,6 +160,8 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 - [PINTR](https://javier.xyz/pintr) - Plottable random line drawings from your images.
 - [REVDANCATT Plotter Tools](https://revdancatt.com/penplotter/) - A bunch of web-based pen plotter tools with SVG output.
 - [Flow Lines](https://msurguy.github.io/flow-lines/) - A tool for generating flow line representations using SVG paths / polylines.
+- [UJI](https://doersino.github.io/uji/) - A web-based generative art thing with SVG export.
+
 
 ### Vector Utilities
 
