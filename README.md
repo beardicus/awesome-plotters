@@ -162,6 +162,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 - [Flow Lines](https://msurguy.github.io/flow-lines/) - A tool for generating flow line representations using SVG paths / polylines.
 - [UJI](https://doersino.github.io/uji/) - A web-based generative art thing with SVG export.
 - [Studio](https://u840903.github.io/multiplication-mandalas/) - A web-based tool for creating multiplication mandalas.
+- [Rad Lines](https://msurguy.github.io/rad-lines/) - A web-based radial lines vector generation tool with SVG export.
 
 ### Vector Utilities
 
