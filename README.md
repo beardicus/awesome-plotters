@@ -365,23 +365,16 @@ Where to find other plotter and drawbot friends.
 
 ## Plotter Art For Sale
 
-- [Paul Rickards](https://shop.paulrickards.com)
-- [Michael Fogleman](https://www.michaelfogleman.com/plotter)
-- [inconvergent](http://buy.inconvergent.net)
-- [Monica Rizzolli](https://www.saatchiart.com/account/artworks/155196)
-- [EmergentDesign](https://emergentdesign.bigcartel.com/products)
-- [BustBright](https://mkt.com/bustbright)
-- [Martin O'Leary](https://shop.mewo2.com)
-- [Geoffrey Bradway](https://www.chromatocosmos.com/)
-- [brubsby](http://shop.brubsby.com/)
-- [Arjan van der Meij](https://dutchplottr.nl/en/)
-- [Nadieh Bremer](https://shop.visualcinnamon.com/collections/pen-plotter-prints)
-- [Michelle Chandra](https://www.dirtalleydesign.com/)
-- [Pedro Alcocer](https://store.pedroalcocer.com/)
-- [AndyMakes](https://shop.andymakes.com/)
-- [Marcel Schwittlick](https://schwittlick.bigcartel.com/)
 - [Adam Fuhrer](https://adamfuhrer.bigcartel.com)
+- [AndyMakes](https://shop.andymakes.com/)
+- [Arjan van der Meij](https://dutchplottr.nl/en/)
+- [EmergentDesign](https://emergentdesign.bigcartel.com/products)
+- [inconvergent](http://buy.inconvergent.net)
 - [Ingrid Burrington](https://wares.lifewinning.com)
+- [Michael Fogleman](https://www.michaelfogleman.com/plotter)
+- [Michelle Chandra](https://www.dirtalleydesign.com/)
+- [Paul Rickards](https://shop.paulrickards.com)
+- [Pedro Alcocer](https://store.pedroalcocer.com/)
 
 ## Other Awesomes
 
