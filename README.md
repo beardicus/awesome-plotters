@@ -159,6 +159,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 - [ThreadPlotter](https://github.com/LiciaHe/threadPlotter) - "A toolkit for the design and fabrication of delicate punch needle embroidery using X-Y plotters".
 - [PINTR](https://javier.xyz/pintr) - Plottable random line drawings from your images.
 - [REVDANCATT Plotter Tools](https://revdancatt.com/penplotter/) - A bunch of web-based pen plotter tools with SVG output.
+- [Flow Lines](https://msurguy.github.io/flow-lines/) - A tool for generating flow line representations using SVG paths / polylines.
 
 ### Vector Utilities
 
