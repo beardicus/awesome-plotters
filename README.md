@@ -100,6 +100,7 @@ G-code is a text-based standard for controlling CNC machines. Though it was desi
 - [ChiliPeppr Hardware Fiddle](http://chilipeppr.com) - Modular web-based workspaces to visualize G-code and control hardware.
 - [gcode-generative-for-processing](https://github.com/o0morgan0o/gcode-generative-for-processing) - Processing library, aiming to create gcode from simple shapes. (Designed for usage with the Creality CR10)
 - [gcodeplot](https://github.com/arpruss/gcodeplot) - Python utility to convert SVG and HPGL to G-code for a 3-axis CNC machine.
+- [fabnodes](https://extensions.blender.org/add-ons/fabnodes/)- lender addon that allows you to export geometry node toolpaths as G-code for CNC machines, 3D printers, laser cutters, and pen plotters.
 
 ### Plotter Control
 
