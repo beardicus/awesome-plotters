@@ -45,6 +45,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 - [NextDraw](https://store.bantamtools.com/collections/bantam-tools-nextdraw) - The [Bantam Tools](https://www.bantamtools.com) successor to the popular AxiDraw pen plotter.
 - [Lego-Pen-Plotter](https://github.com/Jormono1/Lego-Pen-Plotter) - Pen plotter built entirely of LEGO and programmed with PyBricks and Python.
 - [Reviving the Apple 410 Color Plotter](https://www.nycresistor.com/2017/12/13/reviving-the-apple-410-color-plotter/)
+- [Apple-410](https://github.com/phooky/Apple-410) - Apple 410 Color Plotter documentation, drivers, and ROM dumps.
 
 ### Motor Controllers
 
