@@ -215,7 +215,6 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 - [How to Draw Generative Art with an Axidraw Pen Plotter](https://www.dirtalleydesign.com/blogs/news/how-to-draw-prints-with-an-axidraw-pen-plotter) - Lots of nice tips, not all specific to the Axidraw, plus some pen reviews and handy 3d-printed tools.
 - [The Best XY Plotters in 2020](https://all3dp.com/2/pen-plotters-best-xy-plotters/) - Good overview of the AxiDraw and its clones, plus some DIY options.
 - [What is a pen plotter 2022?](https://www.youtube.com/watch?v=J1NpYzETm3M) - Nice video introduction to modern plotters in 2022.
-- [Tools, Tricks, and Hacks: Exploring Novel Digital Fabrication Workflows on #PlotterTwitter](https://dl.acm.org/doi/abs/10.1145/3411764.3445653) - Research paper on the novel workflows of the plotter community ([Video Summary](https://www.youtube.com/watch?v=xqhT-8ElJ68)).
 - [Orbis Tertius](https://www.glkitty.com/pages/orbistertius.html) - An immersive digital installation with plotter output of Martian topography.
 - [Tech Tangents: Plotting For The First Time - HP 7470A](https://www.youtube.com/watch?v=tk4c4WMZJZ8) - Nice video showing an HP 7470A operated from an HP 85 computer.
 - [CuriousMarc: HP 7475A Plotter and HPGL Demo](https://www.youtube.com/watch?v=Tr7Mbw9gLpk) - Video of an HP 7475A plotting some demos.
@@ -251,7 +250,7 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 
 ## Manuals, Ephemera, Papers, and Patents
 
-Scanned plotter manuals, marketing ephemera, academic papers, and patents. Thank you to the [Internet Archive](https://archive.org) for most of these.
+Scanned plotter manuals, marketing ephemera, academic papers, and patents. Thank you to the [Internet Archive](https://archive.org) for hosting most of these.
 
 ### Manuals
 
@@ -356,6 +355,7 @@ Sorted alphabetically by company name and product name.
 - [Preparation of V2O5 Thin Film by Sol–Gel Technique and Pen Plotter Printing](https://www.proquest.com/docview/2791602751)
 - [PatternPortrait: Draw Me Like One of Your Scribbles (2024)](https://arxiv.org/abs/2401.13001)
 - [Can I teach a robot to replicate a line art (2019)](https://arxiv.org/abs/1910.07860)
+- [Tools, Tricks, and Hacks: Exploring Novel Digital Fabrication Workflows on #PlotterTwitter](https://dl.acm.org/doi/abs/10.1145/3411764.3445653) - Research paper on the novel workflows of the plotter community ([Video Summary](https://www.youtube.com/watch?v=xqhT-8ElJ68)).
 
 ### Patents
 
