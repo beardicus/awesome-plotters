@@ -375,7 +375,7 @@ Where to find other plotter and drawbot friends.
 - [Plotter People](https://plotterpeople.github.io/) - In-person meetups (SF and NYC so far) with talks and plotter art galleries.
 - [DrawingBots Discord Forum](https://discordapp.com/invite/XHP3dBg) - Discord forum with an active community.
 - [PlotterFiles](https://plotterfiles.com/) - Community for sharing SVG files for plotters.
-- #PenPlotter - Mastodon/ActivityPub hashtag that plotter folks are mostly congregating under.
+- #PenPlotter - [Bluesky](https://bsky.app/search?q=%23PenPlotter)/[Mastodon](https://mastodon.social/search?q=%23PenPlotter) hashtag that plotter folks are mostly congregating under.
 
 ## Plotter Art For Sale
 
