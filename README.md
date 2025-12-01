@@ -39,7 +39,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 - [EggBot](https://egg-bot.com) - Pen plotter for egg-shaped and spherical objects.
 - [HP Pen Plotters](https://www.hpmuseum.net/exhibit.php?class=4&cat=24) - Vintage desktop and floor-standing pen plotters from the creator of the HPGL standard. Model 7475A is very common and can usually be found on eBay.
 - [Roland Pen Plotters](https://www.youtube.com/watch?v=6_pwzqPk6Gg) - Vintage flatbed HPGL pen plotters. Search eBay for "roland dxy".
-- [BrachioGraph](https://brachiograph.readthedocs.io/en/latest/) - A cheap and simple plotter made from sticks, servos, and a Raspberry Pi running Python. Here's [video of a BrachioGraph talk at PyCon UK](https://www.youtube.com/watch?v=u4Jh1daCl60) from the creator.
+- [BrachioGraph](https://www.brachiograph.art) - A cheap and simple plotter made from sticks, servos, and a Raspberry Pi running Python. Here's [video of a BrachioGraph talk at PyCon UK](https://www.youtube.com/watch?v=u4Jh1daCl60) from the creator.
 - [Arduino CNC Drawing Machine](https://www.diymachines.co.uk/arduino-cnc-drawing-machine) - A fairly simple 3d-printed AxiDraw-style plotter with good video documentation.
 - [PlotterXY](https://github.com/jamescarruthers/PlotterXY) - A coreXY plotter made from extrusion, 3d-printed parts, and an inexpensive 3d-printer control board.
 - [NextDraw](https://store.bantamtools.com/collections/bantam-tools-nextdraw) - The [Bantam Tools](https://www.bantamtools.com) successor to the popular AxiDraw pen plotter.
@@ -70,7 +70,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 - [Plotter Pen STL Models](https://www.printables.com/model/156722-plotter-pen) - Accurate STL models of both short and long standard plotter pens.
 - [Pens for AxiDraw](https://wiki.evilmadscientist.com/Pens_for_AxiDraw) - List of pens suitable for general plotter abuse.
 - [Pens for EggBot](https://wiki.evilmadscientist.com/Pen_choices) - Egg- and glass-focused pen recommendations but still generally applicable information.
-- [JetPens - The Best White Ink Pens](https://www.jetpens.com/blog/the-best-white-ink-pens/pt/340) - A comprehensive review of many white ink pens, with pictures of their coverage characteristics.
+- [JetPens - The Best White Ink Pens](https://www.jetpens.com/blog/The-Best-White-Ink-Pens/pt/340) - A comprehensive review of many white ink pens, with pictures of their coverage characteristics.
 
 ## Software
 
@@ -145,7 +145,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 - [penplot](https://github.com/mattdesl/penplot) - A development environment for plotter art in JavaScript.
 - [penkit](https://github.com/paulgb/penkit) - A Python library for creating line-based SVG graphics.
 - [generativeExamples](https://github.com/digitalcoleman/generativeExamples) - Example Processing code that generates plottable PDFs.
-- [Let's make map](https://svg-exporter.netlify.com) - Web-based tool to export an SVG map from Mapzen tiles.
+- [Let's make map](https://svg-exporter.netlify.app) - Web-based tool to export an SVG map from Mapzen tiles.
 - [LineDream](https://linedream.marcrleonard.com/) - A generative art library for Python that can export SVGs.
 - [SuperformulaSVG for web](https://jasonwebb.github.io/SuperformulaSVG-for-web) - A generative line art web app.
 - [scribbleplot](https://github.com/bleeptrack/scribbleplot) - Scribbly image transformations in Processing.
@@ -165,7 +165,6 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 - [REVDANCATT Plotter Tools](https://revdancatt.com/penplotter/) - A bunch of web-based pen plotter tools with SVG output.
 - [Flow Lines](https://msurguy.github.io/flow-lines/) - A tool for generating flow line representations using SVG paths / polylines.
 - [UJI](https://doersino.github.io/uji/) - A web-based generative art thing with SVG export.
-- [Studio](https://u840903.github.io/multiplication-mandalas/) - A web-based tool for creating multiplication mandalas.
 - [Rad Lines](https://msurguy.github.io/rad-lines/) - A web-based radial lines vector generation tool with SVG export.
 - [Peak Map](https://anvaka.github.io/peak-map/) - A web-based tool to generate ridge line charts from map data.
 
@@ -207,8 +206,8 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 - [Vera Molnár](https://www.surfacemag.com/articles/vera-molnar-in-thinking-machines-at-moma) - OG plotter artist.
 - [Hektor](http://juerglehni.com/works/hektor) - The original cable-based drawbot from 2002.
 - [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) - A two-part intro to creating generative graphics for plotting.
-- [Surface Projection](https://bitaesthetics.com/posts/surface-projection.html) - Deep dive into surface projection and hidden line removal using Python and penplot.
-- [Fractal Generation with L-Systems](https://bitaesthetics.com/posts/fractal-generation-with-l-systems.html) - Techniques for creating line-based fractal graphics.
+- [Surface Projection](https://nb.paulbutler.org/surface-projection/) - Deep dive into surface projection and hidden line removal using Python and penplot.
+- [Fractal Generation with L-Systems](https://nb.paulbutler.org/l-systems/) - Techniques for creating line-based fractal graphics.
 - [Introduction to TSP art](https://wiki.evilmadscientist.com/TSP_art) - Resources for traveling salesman problem (single path) art.
 - [Hidden wireframe removal](https://trmm.net/Hidden_Wireframe) - Discussion and links to code for wireframe removal of STL files.
 - [How to Draw Generative Art with an Axidraw Pen Plotter](https://www.dirtalleydesign.com/blogs/news/how-to-draw-prints-with-an-axidraw-pen-plotter) - Lots of nice tips, not all specific to the Axidraw, plus some pen reviews and handy 3d-printed tools.
@@ -221,7 +220,7 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 - [Commodore 1520 Plotter Demonstration](https://www.youtube.com/watch?v=QwPTluBvKLU) - Video of the Commodore 1520 plotter in action, including a cover-off shot of the mechanism.
 - [Tech Tangents: Gold Standard Plotter - HP 7475A](https://www.youtube.com/watch?v=8785ktWD7vQ) - Video with some HPGL and plotter history, plus operating an HP 7475A from an IBM 5160 microcomputer.
 - [curiousmarc.com: HP 7475A Plotter](https://www.curiousmarc.com/computing/hp-7475a-plotter) - A great collection of info, ephemera, plot files, three YouTube videos, and a 3d-printable replacement part for the HP 7475A.
-- [From Lettering Guides to CNC Plotters](https://www.typotheque.com/articles/from-lettering-guides-to-cnc-plotters-a-brief-history-of-technical-lettering-tools) - "A Brief History of Technical Lettering Tools".
+- [From Lettering Guides to CNC Plotters](https://www.typotheque.com/articles/from-lettering-guides-to-cnc-plotters) - "A Brief History of Technical Lettering Tools".
 - [Building an interactive plotter art installation](https://lostpixels.io/writings/building-interactive-plotter-art) - Nice writeup (with videos) of an interactive plotter art exhibit at SIGGRAPH 2023.
 - [Taxan KPL 710 Demo Plot](https://www.youtube.com/watch?v=Xms3sZONQjo) - A handheld recording of the Taxan KPL 710 running its demo plot.
 - [Sweet-P Six Shooter SP-600 Plotter Demonstration](https://www.youtube.com/watch?v=xE9LVOMbKxk) - A recording of the Sweet-P SP-600 running its demo plot.
@@ -349,12 +348,13 @@ Sorted alphabetically by company name and product name.
 
 ### Papers
 
-- [Toward Aesthetic Guidelines for Paintings with the Aid of a Computer (1975) (PDF)](https://rednoise.org/softas/uploads/molnar.pdf) - Vera Molnar.
+- [Toward Aesthetic Guidelines for Paintings with the Aid of a Computer (1975) (paywall)](https://www.jstor.org/stable/1573236) - Vera Molnar.
 - [Pen Plotter as a Low-Cost Platform for Rapid Device Prototyping with Solution-Processable Nanomaterials (2023) (PDF)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/adem.202300226)
 - [Preparation of V2O5 Thin Film by Sol–Gel Technique and Pen Plotter Printing](https://www.proquest.com/docview/2791602751)
 - [PatternPortrait: Draw Me Like One of Your Scribbles (2024)](https://arxiv.org/abs/2401.13001)
 - [Can I teach a robot to replicate a line art (2019)](https://arxiv.org/abs/1910.07860)
 - [Tools, Tricks, and Hacks: Exploring Novel Digital Fabrication Workflows on #PlotterTwitter](https://dl.acm.org/doi/abs/10.1145/3411764.3445653) - Research paper on the novel workflows of the plotter community ([Video Summary](https://www.youtube.com/watch?v=xqhT-8ElJ68)).
+- [Vera Molnar's Computer Paintings](https://www.researchgate.net/publication/338896073_Vera_Molnar's_Computer_Paintings)
 
 ### Patents
 
