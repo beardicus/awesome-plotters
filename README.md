@@ -43,6 +43,8 @@ A short selection of resources to help you get started with pen plotters.
 
 ### Plotters
 
+Pen plotters available to build or purchase, historical information, and restoration projects.
+
 - [AxiDraw](https://shop.evilmadscientist.com/productsmenu/846) - Pen plotter from [Evil Mad Scientist](https://www.evilmadscientist.com), very popular on #plottertwitter.
 - [Line-us](https://www.line-us.com) - A cute little kickstarted robotic drawing arm.
 - [Drawing Robot](https://www.thingiverse.com/thing:2349232) - 3d-Printable AxiDraw clone w/ Arduino CNC Shield controller running grbl firmware.
@@ -61,6 +63,8 @@ A short selection of resources to help you get started with pen plotters.
 
 ### Motor Controllers
 
+Hardware for driving stepper motors and controlling pen plotters.
+
 - [grblShield](https://github.com/synthetos/grblShield) - All the stepper motor control hardware needed to turn an [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
 - [TinyG](https://github.com/synthetos/TinyG) - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
 - [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) - Grbl-compatible stepper motor control shield for Arduino, similar to the grblShield.
@@ -69,6 +73,8 @@ A short selection of resources to help you get started with pen plotters.
 
 ### Accessories and Adapters
 
+Cables, serial adapters, and replacement parts.
+
 - [WiFi232](http://biosrhythm.com/?page_id=1453) - Wifi to RS-232 serial via a DB25 plug. Control your serial plotter wirelessly.
 - [Plotter Cable Pinout](http://sites.music.columbia.edu/cmc/chiplotle/plotter_cable.pdf) - Schematic for a plotter cable that will work for most HP and Roland plotters. Search eBay or Amazon for `DB9 to DB25 Serial Null Modem Cable` or similar to find them for sale.
 - [PlotAdapter](https://github.com/rhalkyard/plotadapter) - "Serial-GPIB converter for HP Plotters", uses an Arduino microcontroller to convert serial HPGL to the GPIB/HP-IB expected by some older HP plotters.
@@ -76,6 +82,8 @@ A short selection of resources to help you get started with pen plotters.
 - [Replacement Geneva Drive Wheel Gear for HP 7475A Plotter Pen Carousel](https://obsoletetech.us/products/replacement-geneva-drive-wheel-gear-for-hp-7475a-plotter-pen-carousel) - 3d printed replacement for a commonly-busted part.
 
 ### Pens
+
+Pen adapters, mounts, and recommendations.
 
 - [Sharpie Fine Point Plotter Adapter](https://www.printables.com/model/156721-sharpie-fine-point-plotter-adapter) - 3d-printed adapter to fit a standard Sharpie in an HP-GL plotter.
 - [Parametric 3d-Printable Plotter Pen Adapter](https://openjscad.xyz/#https://gist.githubusercontent.com/beardicus/d668c0f6b96be53d16dc/raw/plotter-pen-adapter.jscad) - Adjustable model to print adapters for various pens.
@@ -88,7 +96,7 @@ A short selection of resources to help you get started with pen plotters.
 
 ### HPGL
 
-HPGL is a serial/text-based protocol used by most old pen plotters, and even many new vinyl cutters.
+HPGL is a text-based protocol used by most old pen plotters and many new vinyl cutters.
 
 - [Chiplotle](https://github.com/drepetto/chiplotle) - Python library for generating HPGL and interfacing with serial plotters.
 - [Chiplotle3](https://github.com/cyprienh/chiplotle3) - Chiplotle fork updated for Python 3.x compatibility.
@@ -326,6 +334,8 @@ Sorted alphabetically by company name and product name.
 
 ### Ephemera
 
+Vintage advertising, marketing materials, and promotional videos.
+
 - [Time Share Peripherals TSP-212 Brochure](https://archive.org/details/TNM_Time_Share_Peripherals_-_TSP-212_plotting_sys_20170630_0194)
 - [Hewlett-Packard Journal Volume 29 Number 1](https://archive.org/details/Hewlett-Packard_Journal_Vol._29_No._1_1977-09_Hewlett-Packard) - Multiple articles about the development of the HP Model 9872A and 7221A pen plotters.
 - [Hewlett-Packard Journal Volume 32 Number 10](https://archive.org/details/Hewlett-Packard_Journal_Vol._32_No._10_1981-10_Hewlett-Packard) - Multiple articles about the development of the HP Model 7580A plotter.
@@ -354,6 +364,8 @@ Sorted alphabetically by company name and product name.
 
 ### Papers
 
+Academic papers about pen plotters, art, and related topics.
+
 - [Toward Aesthetic Guidelines for Paintings with the Aid of a Computer (1975) (paywall)](https://www.jstor.org/stable/1573236) - Vera Molnar.
 - [Pen Plotter as a Low-Cost Platform for Rapid Device Prototyping with Solution-Processable Nanomaterials (2023) (PDF)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/adem.202300226)
 - [Preparation of V2O5 Thin Film by Sol–Gel Technique and Pen Plotter Printing](https://www.proquest.com/docview/2791602751)
@@ -364,9 +376,13 @@ Sorted alphabetically by company name and product name.
 
 ### Patents
 
+Patents related to plotter technology.
+
 - [Adaptor for universal X-Y plotter pen](https://patents.google.com/patent/US4943817)
 
 ## Courses
+
+In-depth courses and tutorials about plotters and generative art.
 
 - [Painting with Plotters](https://www.eyesofpanda.com/project/painting_with_plotters/) - A work-in-progress course by Licia He, to be released September 2024.
 
@@ -384,6 +400,8 @@ Where to find other plotter and drawbot friends.
 
 ## Plotter Art For Sale
 
+Artists selling plotter art online.
+
 - [Adam Fuhrer](https://adamfuhrer.bigcartel.com)
 - [AndyMakes](https://shop.andymakes.com/)
 - [Arjan van der Meij](https://dutchplottr.nl/en/)
@@ -396,6 +414,8 @@ Where to find other plotter and drawbot friends.
 - [Pedro Alcocer](https://store.pedroalcocer.com/)
 
 ## Other Awesomes
+
+Related awesome lists for further exploration.
 
 - [awesome-generative-art](https://github.com/kosmos/awesome-generative-art)
 - [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
