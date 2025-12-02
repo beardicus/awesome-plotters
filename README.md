@@ -59,6 +59,7 @@ Pen plotters available to build or purchase, historical information, and restora
 - [Arduino CNC Drawing Machine](https://www.diymachines.co.uk/arduino-cnc-drawing-machine) - A fairly simple 3d-printed AxiDraw-style plotter with good video documentation.
 - [PlotterXY](https://github.com/jamescarruthers/PlotterXY) - A coreXY plotter made from extrusion, 3d-printed parts, and an inexpensive 3d-printer control board.
 - [NextDraw](https://store.bantamtools.com/collections/bantam-tools-nextdraw) - The [Bantam Tools](https://www.bantamtools.com) successor to the popular AxiDraw pen plotter.
+- [openBrushograph](https://github.com/openBrushograph/openBrushograph_hardware) - Open source 3d-printable XY gantry and Z-stage designed for automated brush and pen painting.
 - [Lego-Pen-Plotter](https://github.com/Jormono1/Lego-Pen-Plotter) - Pen plotter built entirely of LEGO and programmed with PyBricks and Python.
 - [Reviving the Apple 410 Color Plotter](https://www.nycresistor.com/2017/12/13/reviving-the-apple-410-color-plotter/)
 - [Apple-410](https://github.com/phooky/Apple-410) - Apple 410 Color Plotter documentation, drivers, and ROM dumps.
