@@ -137,6 +137,7 @@ Software for controlling plotter hardware.
 
 - [axidraw](https://github.com/evil-mad/axidraw) - Official AxiDraw extensions for Inkscape.
 - [axi](https://github.com/fogleman/axi) - Unofficial Python library for the AxiDraw v3.
+- [bCNC](https://github.com/vlachoudis/bCNC) - Cross-platform G-code sender and CNC control software for grbl.
 - [xy](https://github.com/fogleman/xy) - Utilities for the Makeblock XY Plotter Robot Kit.
 - [LaserGRBL](https://github.com/arkypita/LaserGRBL) - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
 - [Line-us Inkscape Plugin](https://github.com/Line-us/Inkscape-Plugin) - Sends drawings to the Line-us plotter directly from Inkscape.
