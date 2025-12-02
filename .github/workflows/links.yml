@@ -4,7 +4,7 @@ on:
   repository_dispatch:
   workflow_dispatch:
   schedule:
-    - cron: '42 04 * * *'
+    - cron: "42 04 * * *"
 
 jobs:
   check-links:
