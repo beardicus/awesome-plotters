@@ -196,6 +196,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 - [UJI](https://doersino.github.io/uji/) - A web-based generative art thing with SVG export.
 - [Rad Lines](https://msurguy.github.io/rad-lines/) - A web-based radial lines vector generation tool with SVG export.
 - [Peak Map](https://anvaka.github.io/peak-map/) - A web-based tool to generate ridge line charts from map data.
+- [Layerize.it](https://layerize.it/) - A web-based tool to convert images to layered SVGs for plotting with multiple pens.
 
 ### Vector Utilities
 
