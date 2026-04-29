@@ -209,6 +209,7 @@ Tools to manipulate and optimize vector-based file formats.
 - [svg-crowbar](https://github.com/NYTimes/svg-crowbar) - Chrome-only bookmarklet for extracting SVG from an HTML document.
 - [vpype](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
 - [SVG Cropper](https://msurguy.github.io/svg-cropper-tool/) - A browser-based tool to crop SVGs using different primitives, custom shapes, or other SVGs.
+- [inkscape-pen-fill](https://github.com/iret33/inkscape-pen-fill) - Inkscape extension that fills closed shapes with concentric or spiral inset paths for pen plotters.
 
 ### Fonts
 
