@@ -136,6 +136,7 @@ G-code is a text-based standard for controlling CNC machines. Though it was desi
 
 Software for controlling plotter hardware.
 
+- [karmyogi](https://karmyogi.hjlabs.in) - Browser-based GRBL sender + CAM with a dedicated pen/plotter Z mode and single-stroke (Hershey) vector-font writing. Runs in the browser, no install.`
 - [axidraw](https://github.com/evil-mad/axidraw) - Official AxiDraw extensions for Inkscape.
 - [axi](https://github.com/fogleman/axi) - Unofficial Python library for the AxiDraw v3.
 - [bCNC](https://github.com/vlachoudis/bCNC) - Cross-platform G-code sender and CNC control software for grbl.
