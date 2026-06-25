@@ -98,6 +98,7 @@ Pen adapters, mounts, and recommendations.
 - [JetPens - The Best White Ink Pens](https://www.jetpens.com/blog/The-Best-White-Ink-Pens/pt/340) - A comprehensive review of many white ink pens, with pictures of their coverage characteristics.
 
 ## Software
+- [MetaVision Text-to-CNC](https://github.com/adminmetavision-rgb/text-to-cnc-agent) - AI agent: text prompt → 3D model → G-code in 60s. MCP/A2A compatible, x402 micropayments.
 
 ### HPGL
 
