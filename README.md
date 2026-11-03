@@ -222,6 +222,7 @@ Single-line vector fonts or "engraving fonts".
 - [hf2gcode](https://github.com/Andy1978/hf2gcode) - Generates G-code from text with a Hershey font.
 - [FifteenTwenty: Commodore 1520 plotter font](https://github.com/scruss/FifteenTwenty) - [Blog post](https://scruss.com/blog/2016/04/23/fifteentwenty-commodore-1520-plotter-font/) about the creation of this font from the original ROM.
 - [Pulling Teeth From a Corpse: Extracting the Vector Font From the Apple 410 Color Plotter](https://www.nycresistor.com/2017/12/29/pulling-teeth-from-a-corpse-extracting-the-vector-font-from-the-apple-410-color-plotter/)
+- [Sticker Printer Hub sheet maker](https://stickerprinterhub.com/) - Free browser tool for laying out 4x7 sticker sheets for home sticker printers that print and cut (from the site's independent printer comparisons).
 
 ## Inspiration, Instruction, and Research
 
