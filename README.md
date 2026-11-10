@@ -173,6 +173,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 - [blackstripes](https://github.com/fullscreennl/blackstripes-python-extensions) - Turns a PNG image into a SVG line drawing.
 - [penplot](https://github.com/mattdesl/penplot) - A development environment for plotter art in JavaScript.
 - [penkit](https://github.com/paulgb/penkit) - A Python library for creating line-based SVG graphics.
+- [Plottery](https://github.com/TobiasGrothmann/plottery) - Generative art engine for pen plotters in Rust.
 - [generativeExamples](https://github.com/digitalcoleman/generativeExamples) - Example Processing code that generates plottable PDFs.
 - [Let's make map](https://svg-exporter.netlify.app) - Web-based tool to export an SVG map from Mapzen tiles.
 - [LineDream](https://linedream.marcrleonard.com/) - A generative art library for Python that can export SVGs.
