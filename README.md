@@ -220,6 +220,7 @@ Single-line vector fonts or "engraving fonts".
 - [svg-fonts](https://gitlab.com/oskay/svg-fonts) - Single-line fonts in an SVG format, mainly for use with the [Hershey Text](https://gitlab.com/oskay/hershey-text) Inkscape plugin.
 - [CNC Text Tool](https://msurguy.github.io/cnc-text-tool/) - Browser-based Hershey Text tool with export to SVG.
 - [hf2gcode](https://github.com/Andy1978/hf2gcode) - Generates G-code from text with a Hershey font.
+- [plottery_fonts](https://github.com/TobiasGrothmann/plottery/tree/main/fonts) - >60 single-line fonts (Hershey, EMS, Relief...) as SVG fonts, licences.
 - [FifteenTwenty: Commodore 1520 plotter font](https://github.com/scruss/FifteenTwenty) - [Blog post](https://scruss.com/blog/2016/04/23/fifteentwenty-commodore-1520-plotter-font/) about the creation of this font from the original ROM.
 - [Pulling Teeth From a Corpse: Extracting the Vector Font From the Apple 410 Color Plotter](https://www.nycresistor.com/2017/12/29/pulling-teeth-from-a-corpse-extracting-the-vector-font-from-the-apple-410-color-plotter/)
 
