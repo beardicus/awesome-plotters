@@ -155,6 +155,7 @@ Software for controlling plotter hardware.
 - [plottie](https://github.com/mossblaser/plottie) - Command-line tool for controlling Silhouette plotters and cutters with SVG input.
 - [py_silhouette](https://github.com/mossblaser/py_silhouette) - Python library for controlling Silhouette plotters and cutters.
 - [pypenwriter](https://github.com/Lana-chan/pypenwriter) - Python script to convert and send SVG drawings to the Panasonic PenWriter family of typewriter plotters.
+- [Plotka](https://github.com/blnkhz/plotka) - Desktop app for AxiDraw and other EBB-based plotters. Prepares SVGs, doodles, images, text, and 3D models with fills and a preview, and plots them directly over USB.
 
 ### Vector Creation
 
